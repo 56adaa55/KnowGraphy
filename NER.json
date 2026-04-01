@@ -1,0 +1,773 @@
+[
+  {
+    "entity_id": "Person_01",
+    "canonical_name": "艾伦·麦席森·图灵",
+    "type": "Person",
+    "mentions": [
+      "艾伦·麦席森·图灵",
+      "Alan Mathison Turing",
+      "阿兰·图灵",
+      "Turing",
+      "涂林",
+      "杜林",
+      "他",
+      "图灵",
+      "艾伦",
+      "教授",
+      "Prof",
+      "那个天才"
+    ]
+  },
+  {
+    "entity_id": "Location_01",
+    "canonical_name": "英国",
+    "type": "Location",
+    "mentions": [
+      "英国",
+      "英伦"
+    ]
+  },
+  {
+    "entity_id": "Location_02",
+    "canonical_name": "德国",
+    "type": "Location",
+    "mentions": [
+      "德国"
+    ]
+  },
+  {
+    "entity_id": "Location_03",
+    "canonical_name": "波兰",
+    "type": "Location",
+    "mentions": [
+      "波兰"
+    ]
+  },
+  {
+    "entity_id": "Organization_01",
+    "canonical_name": "盟军",
+    "type": "Organization",
+    "mentions": [
+      "盟军"
+    ]
+  },
+  {
+    "entity_id": "Organization_02",
+    "canonical_name": "轴心国",
+    "type": "Organization",
+    "mentions": [
+      "轴心国"
+    ]
+  },
+  {
+    "entity_id": "Event_01",
+    "canonical_name": "第二次世界大战",
+    "type": "Event",
+    "mentions": [
+      "二次世界大战",
+      "第二次世界大战",
+      "二战",
+      "战争"
+    ]
+  },
+  {
+    "entity_id": "Organization_03",
+    "canonical_name": "Hut 8小组",
+    "type": "Organization",
+    "mentions": [
+      "“Hut 8”小组",
+      "小屋8",
+      "图灵小组"
+    ]
+  },
+  {
+    "entity_id": "Organization_04",
+    "canonical_name": "德国海军",
+    "type": "Organization",
+    "mentions": [
+      "德国海军"
+    ]
+  },
+  {
+    "entity_id": "Concept_01",
+    "canonical_name": "恩尼格玛密码机",
+    "type": "Concept",
+    "mentions": [
+      "恩尼格玛密码机",
+      "恩尼格玛"
+    ]
+  },
+  {
+    "entity_id": "Concept_02",
+    "canonical_name": "Bombe",
+    "type": "Concept",
+    "mentions": [
+      "Bombe",
+      "炸弹"
+    ]
+  },
+  {
+    "entity_id": "Event_02",
+    "canonical_name": "大西洋战役",
+    "type": "Event",
+    "mentions": [
+      "大西洋战役"
+    ]
+  },
+  {
+    "entity_id": "Concept_03",
+    "canonical_name": "人工智能",
+    "type": "Concept",
+    "mentions": [
+      "人工智能"
+    ]
+  },
+  {
+    "entity_id": "Concept_04",
+    "canonical_name": "计算机科学",
+    "type": "Concept",
+    "mentions": [
+      "计算机科学"
+    ]
+  },
+  {
+    "entity_id": "Concept_05",
+    "canonical_name": "《计算机器和智能》",
+    "type": "Concept",
+    "mentions": [
+      "《计算机器和智能》",
+      "计算机械和智能"
+    ]
+  },
+  {
+    "entity_id": "Concept_06",
+    "canonical_name": "图灵测试",
+    "type": "Concept",
+    "mentions": [
+      "图灵测试"
+    ]
+  },
+  {
+    "entity_id": "Concept_07",
+    "canonical_name": "图灵机",
+    "type": "Concept",
+    "mentions": [
+      "图灵机",
+      "通用（图灵）机",
+      "通用机"
+    ]
+  },
+  {
+    "entity_id": "Event_03",
+    "canonical_name": "1948年奥林匹克运动会",
+    "type": "Event",
+    "mentions": [
+      "1948年奥林匹克运动会",
+      "奥运会",
+      "1948 年英国奥运代表队"
+    ]
+  },
+  {
+    "entity_id": "Person_02",
+    "canonical_name": "汤姆·理查兹",
+    "type": "Person",
+    "mentions": [
+      "汤姆·理查兹",
+      "托马斯·理查兹",
+      "Thomas Richards"
+    ]
+  },
+  {
+    "entity_id": "Person_03",
+    "canonical_name": "朱利斯·麦席森·图灵",
+    "type": "Person",
+    "mentions": [
+      "朱利斯·麦席森·图灵",
+      "Julius Mathison Turing",
+      "父亲"
+    ]
+  },
+  {
+    "entity_id": "Location_04",
+    "canonical_name": "英属印度",
+    "type": "Location",
+    "mentions": [
+      "英属印度",
+      "印度"
+    ]
+  },
+  {
+    "entity_id": "Person_04",
+    "canonical_name": "Ethel Sara Stoney",
+    "type": "Person",
+    "mentions": [
+      "Ethel Sara Stoney",
+      "母亲"
+    ]
+  },
+  {
+    "entity_id": "Location_05",
+    "canonical_name": "伦敦",
+    "type": "Location",
+    "mentions": [
+      "伦敦"
+    ]
+  },
+  {
+    "entity_id": "Location_06",
+    "canonical_name": "帕丁顿",
+    "type": "Location",
+    "mentions": [
+      "帕丁顿"
+    ]
+  },
+  {
+    "entity_id": "Location_07",
+    "canonical_name": "吉尔福德",
+    "type": "Location",
+    "mentions": [
+      "吉尔福德"
+    ]
+  },
+  {
+    "entity_id": "Organization_05",
+    "canonical_name": "圣迈克尔学校",
+    "type": "Organization",
+    "mentions": [
+      "圣迈克尔",
+      "St. Michael's"
+    ]
+  },
+  {
+    "entity_id": "Organization_06",
+    "canonical_name": "马尔伯勒学院",
+    "type": "Organization",
+    "mentions": [
+      "马尔伯勒学院"
+    ]
+  },
+  {
+    "entity_id": "Location_08",
+    "canonical_name": "多塞特郡",
+    "type": "Location",
+    "mentions": [
+      "多塞特郡"
+    ]
+  },
+  {
+    "entity_id": "Organization_07",
+    "canonical_name": "舍伯恩学校",
+    "type": "Organization",
+    "mentions": [
+      "舍伯恩学校",
+      "谢尔本"
+    ]
+  },
+  {
+    "entity_id": "Location_09",
+    "canonical_name": "南安普顿",
+    "type": "Location",
+    "mentions": [
+      "南安普顿"
+    ]
+  },
+  {
+    "entity_id": "Person_05",
+    "canonical_name": "阿尔伯特·爱因斯坦",
+    "type": "Person",
+    "mentions": [
+      "阿尔伯特·爱因斯坦",
+      "爱因斯坦"
+    ]
+  },
+  {
+    "entity_id": "Person_06",
+    "canonical_name": "艾萨克·牛顿",
+    "type": "Person",
+    "mentions": [
+      "牛顿"
+    ]
+  },
+  {
+    "entity_id": "Organization_08",
+    "canonical_name": "剑桥大学国王学院",
+    "type": "Organization",
+    "mentions": [
+      "剑桥大学国王学院",
+      "国王学院",
+      "剑桥"
+    ]
+  },
+  {
+    "entity_id": "Person_07",
+    "canonical_name": "亚尔·瓦尔德马·林德伯格",
+    "type": "Person",
+    "mentions": [
+      "亚尔·瓦尔德马·林德伯格"
+    ]
+  },
+  {
+    "entity_id": "Concept_08",
+    "canonical_name": "《论可计算数及其在判定问题上的应用》",
+    "type": "Concept",
+    "mentions": [
+      "《论可计算数及其在判定问题上的应用》",
+      "On Computable Numbers, with an Application to the Entscheidungsproblem"
+    ]
+  },
+  {
+    "entity_id": "Person_08",
+    "canonical_name": "库尔特·哥德尔",
+    "type": "Person",
+    "mentions": [
+      "哥德尔"
+    ]
+  },
+  {
+    "entity_id": "Concept_09",
+    "canonical_name": "停机问题",
+    "type": "Concept",
+    "mentions": [
+      "停机问题"
+    ]
+  },
+  {
+    "entity_id": "Person_09",
+    "canonical_name": "阿隆佐·邱奇",
+    "type": "Person",
+    "mentions": [
+      "阿隆佐·邱奇"
+    ]
+  },
+  {
+    "entity_id": "Concept_10",
+    "canonical_name": "λ演算",
+    "type": "Concept",
+    "mentions": [
+      "λ演算"
+    ]
+  },
+  {
+    "entity_id": "Organization_09",
+    "canonical_name": "普林斯顿大学",
+    "type": "Organization",
+    "mentions": [
+      "普林斯顿大学",
+      "普林斯顿"
+    ]
+  },
+  {
+    "entity_id": "Person_10",
+    "canonical_name": "约翰·冯·诺依曼",
+    "type": "Person",
+    "mentions": [
+      "冯·诺依曼"
+    ]
+  },
+  {
+    "entity_id": "Person_11",
+    "canonical_name": "路德维希·维特根斯坦",
+    "type": "Person",
+    "mentions": [
+      "维特根斯坦"
+    ]
+  },
+  {
+    "entity_id": "Location_10",
+    "canonical_name": "布莱切利庄园",
+    "type": "Location",
+    "mentions": [
+      "布莱切利庄园",
+      "布莱奇利庄园"
+    ]
+  },
+  {
+    "entity_id": "Person_12",
+    "canonical_name": "Asa Briggs",
+    "type": "Person",
+    "mentions": [
+      "Asa Briggs"
+    ]
+  },
+  {
+    "entity_id": "Organization_10",
+    "canonical_name": "政府密码和密码学校",
+    "type": "Organization",
+    "mentions": [
+      "政府密码和密码学校",
+      "GC&CS",
+      "GCHQ"
+    ]
+  },
+  {
+    "entity_id": "Person_13",
+    "canonical_name": "第利温·诺克斯",
+    "type": "Person",
+    "mentions": [
+      "第利温·诺克斯",
+      "诺克斯"
+    ]
+  },
+  {
+    "entity_id": "Organization_11",
+    "canonical_name": "波兰密码局",
+    "type": "Organization",
+    "mentions": [
+      "波兰密码局"
+    ]
+  },
+  {
+    "entity_id": "Location_11",
+    "canonical_name": "华沙",
+    "type": "Location",
+    "mentions": [
+      "华沙"
+    ]
+  },
+  {
+    "entity_id": "Location_12",
+    "canonical_name": "法国",
+    "type": "Location",
+    "mentions": [
+      "法国"
+    ]
+  },
+  {
+    "entity_id": "Organization_12",
+    "canonical_name": "英国皇家海军",
+    "type": "Organization",
+    "mentions": [
+      "英国皇家海军"
+    ]
+  },
+  {
+    "entity_id": "Organization_13",
+    "canonical_name": "英国军情六处",
+    "type": "Organization",
+    "mentions": [
+      "英国军情六处",
+      "军情六处"
+    ]
+  },
+  {
+    "entity_id": "Organization_14",
+    "canonical_name": "英国国家档案馆",
+    "type": "Organization",
+    "mentions": [
+      "英国国家档案馆"
+    ]
+  },
+  {
+    "entity_id": "Person_14",
+    "canonical_name": "理查德",
+    "type": "Person",
+    "mentions": [
+      "理查德"
+    ]
+  },
+  {
+    "entity_id": "Person_15",
+    "canonical_name": "Ronald Lewin",
+    "type": "Person",
+    "mentions": [
+      "Ronald Lewin"
+    ]
+  },
+  {
+    "entity_id": "Person_16",
+    "canonical_name": "I·J·古德",
+    "type": "Person",
+    "mentions": [
+      "I·J·古德"
+    ]
+  },
+  {
+    "entity_id": "Person_17",
+    "canonical_name": "彼得·希尔顿",
+    "type": "Person",
+    "mentions": [
+      "彼得希尔顿",
+      "希尔顿"
+    ]
+  },
+  {
+    "entity_id": "Organization_15",
+    "canonical_name": "沃尔顿竞技俱乐部",
+    "type": "Organization",
+    "mentions": [
+      "沃尔顿竞技俱乐部"
+    ]
+  },
+  {
+    "entity_id": "Person_18",
+    "canonical_name": "哈里·欣斯利",
+    "type": "Person",
+    "mentions": [
+      "哈里·欣斯利"
+    ]
+  },
+  {
+    "entity_id": "Location_13",
+    "canonical_name": "欧洲",
+    "type": "Location",
+    "mentions": [
+      "欧洲"
+    ]
+  },
+  {
+    "entity_id": "Person_19",
+    "canonical_name": "乔治六世",
+    "type": "Person",
+    "mentions": [
+      "乔治六世国王",
+      "乔治六世"
+    ]
+  },
+  {
+    "entity_id": "Organization_16",
+    "canonical_name": "国家物理实验室",
+    "type": "Organization",
+    "mentions": [
+      "国家物理实验室"
+    ]
+  },
+  {
+    "entity_id": "Concept_11",
+    "canonical_name": "自动计算引擎",
+    "type": "Concept",
+    "mentions": [
+      "自动计算引擎",
+      "ACE"
+    ]
+  },
+  {
+    "entity_id": "Organization_17",
+    "canonical_name": "曼彻斯特大学计算机实验室",
+    "type": "Organization",
+    "mentions": [
+      "曼彻斯特大学计算机实验室"
+    ]
+  },
+  {
+    "entity_id": "Concept_12",
+    "canonical_name": "曼彻斯特一号",
+    "type": "Concept",
+    "mentions": [
+      "曼彻斯特一号"
+    ]
+  },
+  {
+    "entity_id": "Organization_18",
+    "canonical_name": "洛斯阿拉莫斯国家实验室",
+    "type": "Organization",
+    "mentions": [
+      "洛斯阿拉莫斯国家实验室"
+    ]
+  },
+  {
+    "entity_id": "Location_14",
+    "canonical_name": "新墨西哥州",
+    "type": "Location",
+    "mentions": [
+      "新墨西哥州"
+    ]
+  },
+  {
+    "entity_id": "Location_15",
+    "canonical_name": "美国",
+    "type": "Location",
+    "mentions": [
+      "美国"
+    ]
+  },
+  {
+    "entity_id": "Concept_13",
+    "canonical_name": "ENIAC",
+    "type": "Concept",
+    "mentions": [
+      "ENIAC"
+    ]
+  },
+  {
+    "entity_id": "Concept_14",
+    "canonical_name": "洛斯阿拉莫斯象棋",
+    "type": "Concept",
+    "mentions": [
+      "洛斯阿拉莫斯象棋"
+    ]
+  },
+  {
+    "entity_id": "Concept_15",
+    "canonical_name": "《形态发生的化学基础》",
+    "type": "Concept",
+    "mentions": [
+      "《形态发生的化学基础》",
+      "The Chemical Basis of Morphogenesis"
+    ]
+  },
+  {
+    "entity_id": "Concept_16",
+    "canonical_name": "斐波那契叶序列",
+    "type": "Concept",
+    "mentions": [
+      "斐波那契叶序列",
+      "斐波那契数"
+    ]
+  },
+  {
+    "entity_id": "Organization_19",
+    "canonical_name": "《自然》杂志",
+    "type": "Organization",
+    "mentions": [
+      "《自然》杂志",
+      "《自然》"
+    ]
+  },
+  {
+    "entity_id": "Person_20",
+    "canonical_name": "戈登·布朗",
+    "type": "Person",
+    "mentions": [
+      "戈登·布朗"
+    ]
+  },
+  {
+    "entity_id": "Organization_20",
+    "canonical_name": "《每日电讯报》",
+    "type": "Organization",
+    "mentions": [
+      "《每日电讯报》"
+    ]
+  },
+  {
+    "entity_id": "Person_21",
+    "canonical_name": "麦克纳利勋爵",
+    "type": "Person",
+    "mentions": [
+      "麦克纳利勋爵"
+    ]
+  },
+  {
+    "entity_id": "Organization_21",
+    "canonical_name": "英国司法部",
+    "type": "Organization",
+    "mentions": [
+      "英国司法部"
+    ]
+  },
+  {
+    "entity_id": "Person_22",
+    "canonical_name": "伊丽莎白二世",
+    "type": "Person",
+    "mentions": [
+      "英国女王伊丽莎白二世",
+      "伊丽莎白二世"
+    ]
+  },
+  {
+    "entity_id": "Organization_22",
+    "canonical_name": "英国首相府邸",
+    "type": "Organization",
+    "mentions": [
+      "英国首相府邸"
+    ]
+  },
+  {
+    "entity_id": "Concept_17",
+    "canonical_name": "艾伦·图灵法案",
+    "type": "Concept",
+    "mentions": [
+      "艾伦·图灵法案"
+    ]
+  },
+  {
+    "entity_id": "Organization_23",
+    "canonical_name": "皇家学会",
+    "type": "Organization",
+    "mentions": [
+      "皇家学会",
+      "FRS"
+    ]
+  },
+  {
+    "entity_id": "Organization_24",
+    "canonical_name": "计算机协会",
+    "type": "Organization",
+    "mentions": [
+      "计算机协会"
+    ]
+  },
+  {
+    "entity_id": "Concept_18",
+    "canonical_name": "图灵奖",
+    "type": "Concept",
+    "mentions": [
+      "图灵奖"
+    ]
+  },
+  {
+    "entity_id": "Concept_19",
+    "canonical_name": "诺贝尔奖",
+    "type": "Concept",
+    "mentions": [
+      "诺贝尔奖"
+    ]
+  },
+  {
+    "entity_id": "Organization_25",
+    "canonical_name": "英格兰银行",
+    "type": "Organization",
+    "mentions": [
+      "英格兰银行"
+    ]
+  },
+  {
+    "entity_id": "Organization_26",
+    "canonical_name": "苹果公司",
+    "type": "Organization",
+    "mentions": [
+      "苹果公司"
+    ]
+  },
+  {
+    "entity_id": "Person_23",
+    "canonical_name": "史蒂夫·乔布斯",
+    "type": "Person",
+    "mentions": [
+      "史蒂夫·乔布斯"
+    ]
+  },
+  {
+    "entity_id": "Person_24",
+    "canonical_name": "史蒂芬·弗莱",
+    "type": "Person",
+    "mentions": [
+      "史蒂芬·弗莱"
+    ]
+  },
+  {
+    "entity_id": "Organization_27",
+    "canonical_name": "英伟达",
+    "type": "Organization",
+    "mentions": [
+      "英伟达",
+      "NVIDIA"
+    ]
+  },
+  {
+    "entity_id": "Concept_20",
+    "canonical_name": "《模仿游戏》",
+    "type": "Concept",
+    "mentions": [
+      "《模仿游戏》"
+    ]
+  },
+  {
+    "entity_id": "Person_25",
+    "canonical_name": "本尼迪克特·康伯巴奇",
+    "type": "Person",
+    "mentions": [
+      "本尼迪克特·康伯巴奇"
+    ]
+  }
+]
