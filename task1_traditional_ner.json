@@ -1,0 +1,1958 @@
+[
+  {
+    "mention": "艾伦·麦席森·图灵",
+    "label": "PERSON",
+    "start": 0,
+    "end": 9
+  },
+  {
+    "mention": "英语",
+    "label": "LANGUAGE",
+    "start": 18,
+    "end": 20
+  },
+  {
+    "mention": "阿兰·图灵",
+    "label": "PERSON",
+    "start": 44,
+    "end": 49
+  },
+  {
+    "mention": "Turing",
+    "label": "PERSON",
+    "start": 50,
+    "end": 56
+  },
+  {
+    "mention": "1912年6月23日—1954年",
+    "label": "DATE",
+    "start": 68,
+    "end": 84
+  },
+  {
+    "mention": "英国电脑",
+    "label": "ORG",
+    "start": 90,
+    "end": 94
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 121,
+    "end": 122
+  },
+  {
+    "mention": "二次世界大战",
+    "label": "EVENT",
+    "start": 139,
+    "end": 145
+  },
+  {
+    "mention": "8",
+    "label": "CARDINAL",
+    "start": 153,
+    "end": 154
+  },
+  {
+    "mention": "德国海军",
+    "label": "ORG",
+    "start": 160,
+    "end": 164
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 172,
+    "end": 173
+  },
+  {
+    "mention": "德国",
+    "label": "GPE",
+    "start": 182,
+    "end": 184
+  },
+  {
+    "mention": "波兰战",
+    "label": "PERSON",
+    "start": 194,
+    "end": 197
+  },
+  {
+    "mention": "恩尼格玛",
+    "label": "NORP",
+    "start": 215,
+    "end": 219
+  },
+  {
+    "mention": "大西洋",
+    "label": "LOC",
+    "start": 261,
+    "end": 264
+  },
+  {
+    "mention": "计算机器和智能",
+    "label": "WORK_OF_ART",
+    "start": 325,
+    "end": 332
+  },
+  {
+    "mention": "英国",
+    "label": "GPE",
+    "start": 469,
+    "end": 471
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 483,
+    "end": 484
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 506,
+    "end": 507
+  },
+  {
+    "mention": "2小时46分03秒",
+    "label": "TIME",
+    "start": 516,
+    "end": 525
+  },
+  {
+    "mention": "1948年奥林匹克运动会",
+    "label": "EVENT",
+    "start": 533,
+    "end": 545
+  },
+  {
+    "mention": "11分钟",
+    "label": "TIME",
+    "start": 550,
+    "end": 554
+  },
+  {
+    "mention": "1948年",
+    "label": "DATE",
+    "start": 555,
+    "end": 560
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 569,
+    "end": 570
+  },
+  {
+    "mention": "奥运会",
+    "label": "EVENT",
+    "start": 575,
+    "end": 578
+  },
+  {
+    "mention": "汤姆·理查兹",
+    "label": "PERSON",
+    "start": 582,
+    "end": 588
+  },
+  {
+    "mention": "朱利斯·麦席森·图灵",
+    "label": "PERSON",
+    "start": 624,
+    "end": 634
+  },
+  {
+    "mention": "Julius",
+    "label": "PERSON",
+    "start": 635,
+    "end": 641
+  },
+  {
+    "mention": "印度",
+    "label": "GPE",
+    "start": 663,
+    "end": 665
+  },
+  {
+    "mention": "1911年",
+    "label": "DATE",
+    "start": 670,
+    "end": 675
+  },
+  {
+    "mention": "Ethel Sara Stoney",
+    "label": "PERSON",
+    "start": 681,
+    "end": 698
+  },
+  {
+    "mention": "印度",
+    "label": "GPE",
+    "start": 701,
+    "end": 703
+  },
+  {
+    "mention": "艾伦",
+    "label": "PERSON",
+    "start": 713,
+    "end": 715
+  },
+  {
+    "mention": "英国",
+    "label": "GPE",
+    "start": 716,
+    "end": 718
+  },
+  {
+    "mention": "伦敦",
+    "label": "GPE",
+    "start": 725,
+    "end": 727
+  },
+  {
+    "mention": "帕丁顿",
+    "label": "PERSON",
+    "start": 730,
+    "end": 733
+  },
+  {
+    "mention": "艾伦",
+    "label": "PERSON",
+    "start": 741,
+    "end": 743
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 753,
+    "end": 754
+  },
+  {
+    "mention": "印度",
+    "label": "GPE",
+    "start": 766,
+    "end": 768
+  },
+  {
+    "mention": "印度",
+    "label": "GPE",
+    "start": 773,
+    "end": 775
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 786,
+    "end": 787
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 812,
+    "end": 813
+  },
+  {
+    "mention": "1927年",
+    "label": "DATE",
+    "start": 825,
+    "end": 830
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 831,
+    "end": 832
+  },
+  {
+    "mention": "吉尔福德",
+    "label": "GPE",
+    "start": 836,
+    "end": 840
+  },
+  {
+    "mention": "六岁",
+    "label": "DATE",
+    "start": 876,
+    "end": 878
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 882,
+    "end": 883
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 887,
+    "end": 888
+  },
+  {
+    "mention": "圣迈克尔",
+    "label": "PERSON",
+    "start": 892,
+    "end": 896
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 928,
+    "end": 929
+  },
+  {
+    "mention": "马尔伯勒学院",
+    "label": "ORG",
+    "start": 935,
+    "end": 941
+  },
+  {
+    "mention": "1926年",
+    "label": "DATE",
+    "start": 954,
+    "end": 959
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 960,
+    "end": 961
+  },
+  {
+    "mention": "十三岁",
+    "label": "DATE",
+    "start": 961,
+    "end": 964
+  },
+  {
+    "mention": "多塞特郡",
+    "label": "PERSON",
+    "start": 970,
+    "end": 974
+  },
+  {
+    "mention": "第一天",
+    "label": "DATE",
+    "start": 984,
+    "end": 987
+  },
+  {
+    "mention": "第一天",
+    "label": "DATE",
+    "start": 1003,
+    "end": 1006
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1011,
+    "end": 1012
+  },
+  {
+    "mention": "南安普顿",
+    "label": "GPE",
+    "start": 1015,
+    "end": 1019
+  },
+  {
+    "mention": "六十",
+    "label": "CARDINAL",
+    "start": 1021,
+    "end": 1023
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1061,
+    "end": 1062
+  },
+  {
+    "mention": "谢尔本",
+    "label": "PERSON",
+    "start": 1063,
+    "end": 1066
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1105,
+    "end": 1106
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1131,
+    "end": 1132
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1141,
+    "end": 1142
+  },
+  {
+    "mention": "1928年",
+    "label": "DATE",
+    "start": 1156,
+    "end": 1161
+  },
+  {
+    "mention": "16岁",
+    "label": "DATE",
+    "start": 1165,
+    "end": 1168
+  },
+  {
+    "mention": "阿尔伯特·爱因斯坦",
+    "label": "PERSON",
+    "start": 1176,
+    "end": 1185
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1189,
+    "end": 1190
+  },
+  {
+    "mention": "爱因斯坦",
+    "label": "PERSON",
+    "start": 1202,
+    "end": 1206
+  },
+  {
+    "mention": "爱因斯坦",
+    "label": "PERSON",
+    "start": 1220,
+    "end": 1224
+  },
+  {
+    "mention": "1931年",
+    "label": "DATE",
+    "start": 1255,
+    "end": 1260
+  },
+  {
+    "mention": "剑桥大学",
+    "label": "ORG",
+    "start": 1265,
+    "end": 1269
+  },
+  {
+    "mention": "1934年",
+    "label": "DATE",
+    "start": 1290,
+    "end": 1295
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1295,
+    "end": 1296
+  },
+  {
+    "mention": "1935年",
+    "label": "DATE",
+    "start": 1305,
+    "end": 1310
+  },
+  {
+    "mention": "22岁",
+    "label": "DATE",
+    "start": 1311,
+    "end": 1314
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1315,
+    "end": 1316
+  },
+  {
+    "mention": "1922年",
+    "label": "CARDINAL",
+    "start": 1354,
+    "end": 1359
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1403,
+    "end": 1404
+  },
+  {
+    "mention": "论可计算数",
+    "label": "WORK_OF_ART",
+    "start": 1410,
+    "end": 1415
+  },
+  {
+    "mention": "英语",
+    "label": "LANGUAGE",
+    "start": 1428,
+    "end": 1430
+  },
+  {
+    "mention": "1931年",
+    "label": "DATE",
+    "start": 1508,
+    "end": 1513
+  },
+  {
+    "mention": "图灵机",
+    "label": "GPE",
+    "start": 1538,
+    "end": 1541
+  },
+  {
+    "mention": "哥德尔",
+    "label": "GPE",
+    "start": 1554,
+    "end": 1557
+  },
+  {
+    "mention": "通用",
+    "label": "ORG",
+    "start": 1559,
+    "end": 1561
+  },
+  {
+    "mention": "图灵机",
+    "label": "ORG",
+    "start": 1574,
+    "end": 1577
+  },
+  {
+    "mention": "图灵机",
+    "label": "ORG",
+    "start": 1633,
+    "end": 1636
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1650,
+    "end": 1651
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1667,
+    "end": 1668
+  },
+  {
+    "mention": "图灵机",
+    "label": "GPE",
+    "start": 1676,
+    "end": 1679
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1719,
+    "end": 1720
+  },
+  {
+    "mention": "阿隆佐·邱奇",
+    "label": "PERSON",
+    "start": 1724,
+    "end": 1730
+  },
+  {
+    "mention": "几个月",
+    "label": "DATE",
+    "start": 1745,
+    "end": 1748
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1764,
+    "end": 1765
+  },
+  {
+    "mention": "通用",
+    "label": "ORG",
+    "start": 1766,
+    "end": 1768
+  },
+  {
+    "mention": "1936年9月到1938年7月",
+    "label": "DATE",
+    "start": 1820,
+    "end": 1835
+  },
+  {
+    "mention": "普林斯顿大学",
+    "label": "ORG",
+    "start": 1846,
+    "end": 1852
+  },
+  {
+    "mention": "第二年",
+    "label": "DATE",
+    "start": 1859,
+    "end": 1862
+  },
+  {
+    "mention": "简·伊丽莎·宝洁奖学金",
+    "label": "PERSON",
+    "start": 1866,
+    "end": 1877
+  },
+  {
+    "mention": "Jane Eliza",
+    "label": "PERSON",
+    "start": 1882,
+    "end": 1892
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1920,
+    "end": 1921
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1929,
+    "end": 1930
+  },
+  {
+    "mention": "二",
+    "label": "CARDINAL",
+    "start": 1943,
+    "end": 1944
+  },
+  {
+    "mention": "四",
+    "label": "CARDINAL",
+    "start": 1950,
+    "end": 1951
+  },
+  {
+    "mention": "三",
+    "label": "CARDINAL",
+    "start": 1958,
+    "end": 1959
+  },
+  {
+    "mention": "1938年6月",
+    "label": "DATE",
+    "start": 1961,
+    "end": 1968
+  },
+  {
+    "mention": "林斯顿",
+    "label": "PERSON",
+    "start": 1971,
+    "end": 1974
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 1982,
+    "end": 1983
+  },
+  {
+    "mention": "图灵机",
+    "label": "GPE",
+    "start": 2017,
+    "end": 2020
+  },
+  {
+    "mention": "冯·诺依曼",
+    "label": "PERSON",
+    "start": 2050,
+    "end": 2055
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 2062,
+    "end": 2063
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 2071,
+    "end": 2072
+  },
+  {
+    "mention": "英国",
+    "label": "GPE",
+    "start": 2079,
+    "end": 2081
+  },
+  {
+    "mention": "1939年",
+    "label": "DATE",
+    "start": 2083,
+    "end": 2088
+  },
+  {
+    "mention": "剑桥",
+    "label": "ORG",
+    "start": 2092,
+    "end": 2094
+  },
+  {
+    "mention": "Foundations of mathe",
+    "label": "PERSON",
+    "start": 2112,
+    "end": 2132
+  },
+  {
+    "mention": "第二次世界大战",
+    "label": "EVENT",
+    "start": 2207,
+    "end": 2214
+  },
+  {
+    "mention": "德国",
+    "label": "GPE",
+    "start": 2228,
+    "end": 2230
+  },
+  {
+    "mention": "1938年9月",
+    "label": "DATE",
+    "start": 2299,
+    "end": 2306
+  },
+  {
+    "mention": "英国",
+    "label": "GPE",
+    "start": 2311,
+    "end": 2313
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 2340,
+    "end": 2341
+  },
+  {
+    "mention": "第利",
+    "label": "ORDINAL",
+    "start": 2354,
+    "end": 2356
+  },
+  {
+    "mention": "温·诺克斯",
+    "label": "PERSON",
+    "start": 2356,
+    "end": 2361
+  },
+  {
+    "mention": "德国",
+    "label": "GPE",
+    "start": 2367,
+    "end": 2369
+  },
+  {
+    "mention": "恩尼格玛",
+    "label": "NORP",
+    "start": 2372,
+    "end": 2376
+  },
+  {
+    "mention": "1939年7月",
+    "label": "DATE",
+    "start": 2387,
+    "end": 2394
+  },
+  {
+    "mention": "波兰",
+    "label": "GPE",
+    "start": 2395,
+    "end": 2397
+  },
+  {
+    "mention": "华沙",
+    "label": "GPE",
+    "start": 2401,
+    "end": 2403
+  },
+  {
+    "mention": "英国",
+    "label": "GPE",
+    "start": 2410,
+    "end": 2412
+  },
+  {
+    "mention": "法国",
+    "label": "GPE",
+    "start": 2413,
+    "end": 2415
+  },
+  {
+    "mention": "恩尼格玛",
+    "label": "GPE",
+    "start": 2418,
+    "end": 2422
+  },
+  {
+    "mention": "诺克斯",
+    "label": "GPE",
+    "start": 2460,
+    "end": 2463
+  },
+  {
+    "mention": "波兰",
+    "label": "GPE",
+    "start": 2479,
+    "end": 2481
+  },
+  {
+    "mention": "德国人",
+    "label": "NORP",
+    "start": 2486,
+    "end": 2489
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 2517,
+    "end": 2518
+  },
+  {
+    "mention": "波兰",
+    "label": "GPE",
+    "start": 2532,
+    "end": 2534
+  },
+  {
+    "mention": "1939年",
+    "label": "DATE",
+    "start": 2542,
+    "end": 2547
+  },
+  {
+    "mention": "英国皇家海军",
+    "label": "ORG",
+    "start": 2550,
+    "end": 2556
+  },
+  {
+    "mention": "英国",
+    "label": "GPE",
+    "start": 2561,
+    "end": 2563
+  },
+  {
+    "mention": "德国",
+    "label": "GPE",
+    "start": 2573,
+    "end": 2575
+  },
+  {
+    "mention": "两年后",
+    "label": "DATE",
+    "start": 2587,
+    "end": 2590
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 2590,
+    "end": 2591
+  },
+  {
+    "mention": "德国",
+    "label": "GPE",
+    "start": 2599,
+    "end": 2601
+  },
+  {
+    "mention": "德国",
+    "label": "GPE",
+    "start": 2623,
+    "end": 2625
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 2716,
+    "end": 2717
+  },
+  {
+    "mention": "两",
+    "label": "CARDINAL",
+    "start": 2719,
+    "end": 2720
+  },
+  {
+    "mention": "GC",
+    "label": "PERSON",
+    "start": 2822,
+    "end": 2824
+  },
+  {
+    "mention": "2012年4月",
+    "label": "DATE",
+    "start": 2854,
+    "end": 2861
+  },
+  {
+    "mention": "英国",
+    "label": "GPE",
+    "start": 2866,
+    "end": 2868
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 2877,
+    "end": 2878
+  },
+  {
+    "mention": "一百周年",
+    "label": "DATE",
+    "start": 2880,
+    "end": 2884
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 2899,
+    "end": 2900
+  },
+  {
+    "mention": "70 年",
+    "label": "DATE",
+    "start": 2932,
+    "end": 2936
+  },
+  {
+    "mention": "GCHQ",
+    "label": "GPE",
+    "start": 3056,
+    "end": 3060
+  },
+  {
+    "mention": "两",
+    "label": "CARDINAL",
+    "start": 3067,
+    "end": 3068
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3119,
+    "end": 3120
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3124,
+    "end": 3125
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3138,
+    "end": 3139
+  },
+  {
+    "mention": "恩尼格玛",
+    "label": "NORP",
+    "start": 3141,
+    "end": 3145
+  },
+  {
+    "mention": "Ronald Lewin",
+    "label": "PERSON",
+    "start": 3169,
+    "end": 3181
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3206,
+    "end": 3207
+  },
+  {
+    "mention": "六月",
+    "label": "DATE",
+    "start": 3217,
+    "end": 3219
+  },
+  {
+    "mention": "第一周",
+    "label": "DATE",
+    "start": 3220,
+    "end": 3223
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3224,
+    "end": 3225
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3233,
+    "end": 3234
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3255,
+    "end": 3256
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3272,
+    "end": 3273
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3303,
+    "end": 3304
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3311,
+    "end": 3312
+  },
+  {
+    "mention": "希尔顿",
+    "label": "PERSON",
+    "start": 3330,
+    "end": 3333
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3334,
+    "end": 3335
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3351,
+    "end": 3352
+  },
+  {
+    "mention": "8",
+    "label": "CARDINAL",
+    "start": 3355,
+    "end": 3356
+  },
+  {
+    "mention": "艾伦·图灵",
+    "label": "PERSON",
+    "start": 3552,
+    "end": 3557
+  },
+  {
+    "mention": "第二次世界大战",
+    "label": "EVENT",
+    "start": 3575,
+    "end": 3582
+  },
+  {
+    "mention": "希尔顿",
+    "label": "PERSON",
+    "start": 3605,
+    "end": 3608
+  },
+  {
+    "mention": "解码纳粹秘密",
+    "label": "LAW",
+    "start": 3622,
+    "end": 3628
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3677,
+    "end": 3678
+  },
+  {
+    "mention": "40 英里",
+    "label": "QUANTITY",
+    "start": 3683,
+    "end": 3688
+  },
+  {
+    "mention": "64 公里",
+    "label": "QUANTITY",
+    "start": 3689,
+    "end": 3694
+  },
+  {
+    "mention": "伦敦",
+    "label": "GPE",
+    "start": 3696,
+    "end": 3698
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3699,
+    "end": 3700
+  },
+  {
+    "mention": "1948 年",
+    "label": "DATE",
+    "start": 3719,
+    "end": 3725
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3739,
+    "end": 3740
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3748,
+    "end": 3749
+  },
+  {
+    "mention": "英国",
+    "label": "GPE",
+    "start": 3759,
+    "end": 3761
+  },
+  {
+    "mention": "Thomas Richards",
+    "label": "PERSON",
+    "start": 3773,
+    "end": 3788
+  },
+  {
+    "mention": "奥运会",
+    "label": "EVENT",
+    "start": 3790,
+    "end": 3793
+  },
+  {
+    "mention": "2小时35分钟",
+    "label": "TIME",
+    "start": 3798,
+    "end": 3805
+  },
+  {
+    "mention": "11分钟",
+    "label": "TIME",
+    "start": 3808,
+    "end": 3812
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3813,
+    "end": 3814
+  },
+  {
+    "mention": "沃尔顿",
+    "label": "PERSON",
+    "start": 3815,
+    "end": 3818
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3835,
+    "end": 3836
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3855,
+    "end": 3856
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 3868,
+    "end": 3869
+  },
+  {
+    "mention": "哈里·欣斯利",
+    "label": "PERSON",
+    "start": 3954,
+    "end": 3960
+  },
+  {
+    "mention": "欧洲",
+    "label": "LOC",
+    "start": 3968,
+    "end": 3970
+  },
+  {
+    "mention": "两年多",
+    "label": "DATE",
+    "start": 3976,
+    "end": 3979
+  },
+  {
+    "mention": "1400",
+    "label": "CARDINAL",
+    "start": 3986,
+    "end": 3990
+  },
+  {
+    "mention": "官方保密法",
+    "label": "LAW",
+    "start": 4031,
+    "end": 4036
+  },
+  {
+    "mention": "1946 年",
+    "label": "DATE",
+    "start": 4075,
+    "end": 4081
+  },
+  {
+    "mention": "乔治",
+    "label": "PERSON",
+    "start": 4082,
+    "end": 4084
+  },
+  {
+    "mention": "英",
+    "label": "GPE",
+    "start": 4092,
+    "end": 4093
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4106,
+    "end": 4107
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4115,
+    "end": 4116
+  },
+  {
+    "mention": "1945年到1948年",
+    "label": "DATE",
+    "start": 4153,
+    "end": 4164
+  },
+  {
+    "mention": "国家物理实验室",
+    "label": "ORG",
+    "start": 4168,
+    "end": 4175
+  },
+  {
+    "mention": "1949年",
+    "label": "DATE",
+    "start": 4194,
+    "end": 4199
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4200,
+    "end": 4201
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4251,
+    "end": 4252
+  },
+  {
+    "mention": "1952年",
+    "label": "DATE",
+    "start": 4324,
+    "end": 4329
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4371,
+    "end": 4372
+  },
+  {
+    "mention": "半小时",
+    "label": "TIME",
+    "start": 4385,
+    "end": 4388
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4389,
+    "end": 4390
+  },
+  {
+    "mention": "美国新墨西哥州",
+    "label": "ORG",
+    "start": 4410,
+    "end": 4417
+  },
+  {
+    "mention": "国家实验室",
+    "label": "ORG",
+    "start": 4423,
+    "end": 4428
+  },
+  {
+    "mention": "第一",
+    "label": "ORDINAL",
+    "start": 4453,
+    "end": 4455
+  },
+  {
+    "mention": "1952年",
+    "label": "DATE",
+    "start": 4502,
+    "end": 4507
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4527,
+    "end": 4528
+  },
+  {
+    "mention": "1952年",
+    "label": "DATE",
+    "start": 4529,
+    "end": 4534
+  },
+  {
+    "mention": "英语",
+    "label": "LANGUAGE",
+    "start": 4553,
+    "end": 4555
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4593,
+    "end": 4594
+  },
+  {
+    "mention": "叶序列",
+    "label": "PERSON",
+    "start": 4604,
+    "end": 4607
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4622,
+    "end": 4623
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4650,
+    "end": 4651
+  },
+  {
+    "mention": "1992年《",
+    "label": "DATE",
+    "start": 4666,
+    "end": 4672
+  },
+  {
+    "mention": "艾伦·图灵选集",
+    "label": "WORK_OF_ART",
+    "start": 4672,
+    "end": 4679
+  },
+  {
+    "mention": "2012年",
+    "label": "DATE",
+    "start": 4692,
+    "end": 4697
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4706,
+    "end": 4707
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4760,
+    "end": 4761
+  },
+  {
+    "mention": "1952年",
+    "label": "DATE",
+    "start": 4769,
+    "end": 4774
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4775,
+    "end": 4776
+  },
+  {
+    "mention": "一",
+    "label": "CARDINAL",
+    "start": 4783,
+    "end": 4784
+  },
+  {
+    "mention": "英国",
+    "label": "GPE",
+    "start": 4801,
+    "end": 4803
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4812,
+    "end": 4813
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4840,
+    "end": 4841
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4856,
+    "end": 4857
+  },
+  {
+    "mention": "两",
+    "label": "CARDINAL",
+    "start": 4861,
+    "end": 4862
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4888,
+    "end": 4889
+  },
+  {
+    "mention": "一年",
+    "label": "DATE",
+    "start": 4903,
+    "end": 4905
+  },
+  {
+    "mention": "1954年",
+    "label": "DATE",
+    "start": 4955,
+    "end": 4960
+  },
+  {
+    "mention": "氰化物",
+    "label": "PERSON",
+    "start": 4968,
+    "end": 4971
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4985,
+    "end": 4986
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 4996,
+    "end": 4997
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 5003,
+    "end": 5004
+  },
+  {
+    "mention": "Ethel Sara Stoney",
+    "label": "PERSON",
+    "start": 5007,
+    "end": 5024
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 5028,
+    "end": 5029
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 5050,
+    "end": 5051
+  },
+  {
+    "mention": "2009年9月10日",
+    "label": "DATE",
+    "start": 5086,
+    "end": 5096
+  },
+  {
+    "mention": "3万",
+    "label": "CARDINAL",
+    "start": 5101,
+    "end": 5103
+  },
+  {
+    "mention": "英国",
+    "label": "NORP",
+    "start": 5111,
+    "end": 5113
+  },
+  {
+    "mention": "戈登·布朗",
+    "label": "PERSON",
+    "start": 5115,
+    "end": 5120
+  },
+  {
+    "mention": "每日电讯报",
+    "label": "ORG",
+    "start": 5122,
+    "end": 5127
+  },
+  {
+    "mention": "英国",
+    "label": "GPE",
+    "start": 5133,
+    "end": 5135
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 5156,
+    "end": 5157
+  },
+  {
+    "mention": "艾伦·图灵",
+    "label": "PERSON",
+    "start": 5165,
+    "end": 5170
+  },
+  {
+    "mention": "2012年",
+    "label": "DATE",
+    "start": 5177,
+    "end": 5182
+  },
+  {
+    "mention": "2万多",
+    "label": "CARDINAL",
+    "start": 5184,
+    "end": 5187
+  },
+  {
+    "mention": "英国",
+    "label": "GPE",
+    "start": 5195,
+    "end": 5197
+  },
+  {
+    "mention": "英国",
+    "label": "GPE",
+    "start": 5216,
+    "end": 5218
+  },
+  {
+    "mention": "上议院",
+    "label": "ORG",
+    "start": 5218,
+    "end": 5221
+  },
+  {
+    "mention": "麦克纳利",
+    "label": "GPE",
+    "start": 5222,
+    "end": 5226
+  },
+  {
+    "mention": "勋爵",
+    "label": "GPE",
+    "start": 5226,
+    "end": 5228
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 5266,
+    "end": 5267
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 5278,
+    "end": 5279
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 5285,
+    "end": 5286
+  },
+  {
+    "mention": "今天",
+    "label": "DATE",
+    "start": 5304,
+    "end": 5306
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 5332,
+    "end": 5333
+  },
+  {
+    "mention": "今日",
+    "label": "DATE",
+    "start": 5412,
+    "end": 5414
+  },
+  {
+    "mention": "2013年12月24日",
+    "label": "DATE",
+    "start": 5433,
+    "end": 5444
+  },
+  {
+    "mention": "英国司法部",
+    "label": "ORG",
+    "start": 5445,
+    "end": 5450
+  },
+  {
+    "mention": "英国",
+    "label": "GPE",
+    "start": 5452,
+    "end": 5454
+  },
+  {
+    "mention": "伊丽莎白",
+    "label": "PERSON",
+    "start": 5456,
+    "end": 5460
+  },
+  {
+    "mention": "1952年",
+    "label": "DATE",
+    "start": 5464,
+    "end": 5469
+  },
+  {
+    "mention": "艾伦·图灵",
+    "label": "PERSON",
+    "start": 5479,
+    "end": 5484
+  },
+  {
+    "mention": "2015年2月23日",
+    "label": "DATE",
+    "start": 5526,
+    "end": 5536
+  },
+  {
+    "mention": "英国",
+    "label": "NORP",
+    "start": 5543,
+    "end": 5545
+  },
+  {
+    "mention": "50万",
+    "label": "CARDINAL",
+    "start": 5556,
+    "end": 5559
+  },
+  {
+    "mention": "英国",
+    "label": "GPE",
+    "start": 5569,
+    "end": 5571
+  },
+  {
+    "mention": "49",
+    "label": "CARDINAL",
+    "start": 5575,
+    "end": 5577
+  },
+  {
+    "mention": "2017年1月31日",
+    "label": "DATE",
+    "start": 5597,
+    "end": 5607
+  },
+  {
+    "mention": "艾伦·图灵",
+    "label": "PERSON",
+    "start": 5608,
+    "end": 5613
+  },
+  {
+    "mention": "约49",
+    "label": "CARDINAL",
+    "start": 5618,
+    "end": 5621
+  },
+  {
+    "mention": "1946年",
+    "label": "DATE",
+    "start": 5664,
+    "end": 5669
+  },
+  {
+    "mention": "英",
+    "label": "GPE",
+    "start": 5670,
+    "end": 5671
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 5676,
+    "end": 5677
+  },
+  {
+    "mention": "1951年",
+    "label": "DATE",
+    "start": 5678,
+    "end": 5683
+  },
+  {
+    "mention": "皇家学会",
+    "label": "ORG",
+    "start": 5687,
+    "end": 5691
+  },
+  {
+    "mention": "他",
+    "label": "PRONOUN",
+    "start": 5706,
+    "end": 5707
+  },
+  {
+    "mention": "1966年",
+    "label": "DATE",
+    "start": 5716,
+    "end": 5721
+  },
+  {
+    "mention": "计算机协会",
+    "label": "ORG",
+    "start": 5730,
+    "end": 5735
+  },
+  {
+    "mention": "诺贝尔奖",
+    "label": "WORK_OF_ART",
+    "start": 5779,
+    "end": 5783
+  },
+  {
+    "mention": "50英镑",
+    "label": "MONEY",
+    "start": 5807,
+    "end": 5811
+  },
+  {
+    "mention": "半",
+    "label": "CARDINAL",
+    "start": 5863,
+    "end": 5864
+  },
+  {
+    "mention": "史蒂夫·乔布斯",
+    "label": "PERSON",
+    "start": 5896,
+    "end": 5903
+  },
+  {
+    "mention": "史蒂芬·弗莱",
+    "label": "PERSON",
+    "start": 5906,
+    "end": 5912
+  },
+  {
+    "mention": "God",
+    "label": "PERSON",
+    "start": 5954,
+    "end": 5957
+  },
+  {
+    "mention": "NVIDIA",
+    "label": "ORG",
+    "start": 6029,
+    "end": 6035
+  },
+  {
+    "mention": "16",
+    "label": "CARDINAL",
+    "start": 6044,
+    "end": 6046
+  },
+  {
+    "mention": "NVIDIA",
+    "label": "ORG",
+    "start": 6049,
+    "end": 6055
+  },
+  {
+    "mention": "20",
+    "label": "CARDINAL",
+    "start": 6064,
+    "end": 6066
+  },
+  {
+    "mention": "模仿游戏",
+    "label": "WORK_OF_ART",
+    "start": 6105,
+    "end": 6109
+  },
+  {
+    "mention": "2014年",
+    "label": "DATE",
+    "start": 6111,
+    "end": 6116
+  },
+  {
+    "mention": "本尼迪克特·康伯巴奇",
+    "label": "PERSON",
+    "start": 6120,
+    "end": 6130
+  },
+  {
+    "mention": "艾伦·图灵",
+    "label": "PERSON",
+    "start": 6132,
+    "end": 6137
+  },
+  {
+    "mention": "图灵机",
+    "label": "ORG",
+    "start": 6154,
+    "end": 6157
+  },
+  {
+    "mention": "2012",
+    "label": "CARDINAL",
+    "start": 6240,
+    "end": 6244
+  },
+  {
+    "mention": "艾伦·图灵年",
+    "label": "PERSON",
+    "start": 6244,
+    "end": 6250
+  },
+  {
+    "mention": "档案馆",
+    "label": "PERSON",
+    "start": 6264,
+    "end": 6267
+  },
+  {
+    "mention": "档案馆",
+    "label": "PERSON",
+    "start": 6300,
+    "end": 6303
+  },
+  {
+    "mention": "档案馆",
+    "label": "PERSON",
+    "start": 6323,
+    "end": 6326
+  },
+  {
+    "mention": "美国国会",
+    "label": "ORG",
+    "start": 6340,
+    "end": 6344
+  },
+  {
+    "mention": "27",
+    "label": "CARDINAL",
+    "start": 6363,
+    "end": 6365
+  },
+  {
+    "mention": "James",
+    "label": "PERSON",
+    "start": 6437,
+    "end": 6442
+  },
+  {
+    "mention": "2001",
+    "label": "CARDINAL",
+    "start": 6535,
+    "end": 6539
+  },
+  {
+    "mention": "12",
+    "label": "CARDINAL",
+    "start": 6540,
+    "end": 6542
+  },
+  {
+    "mention": "11",
+    "label": "CARDINAL",
+    "start": 6543,
+    "end": 6545
+  },
+  {
+    "mention": "2007",
+    "label": "DATE",
+    "start": 6555,
+    "end": 6559
+  },
+  {
+    "mention": "档案馆",
+    "label": "PERSON",
+    "start": 6593,
+    "end": 6596
+  },
+  {
+    "mention": "中央研究院",
+    "label": "ORG",
+    "start": 6600,
+    "end": 6605
+  },
+  {
+    "mention": "台大",
+    "label": "ORG",
+    "start": 6609,
+    "end": 6611
+  },
+  {
+    "mention": "艾伦·图灵",
+    "label": "PERSON",
+    "start": 6615,
+    "end": 6620
+  },
+  {
+    "mention": "档案馆",
+    "label": "PERSON",
+    "start": 6646,
+    "end": 6649
+  },
+  {
+    "mention": "艾伦·图灵",
+    "label": "PERSON",
+    "start": 6651,
+    "end": 6656
+  },
+  {
+    "mention": "数字化",
+    "label": "CARDINAL",
+    "start": 6658,
+    "end": 6661
+  }
+]

@@ -1,0 +1,1256 @@
+[
+  {
+    "original_mention": "英语",
+    "resolved_query": "英语",
+    "linked_id": "Q1860",
+    "canonical_name": "英语"
+  },
+  {
+    "original_mention": "阿兰·图灵",
+    "resolved_query": "阿兰·图灵",
+    "linked_id": "Q7251",
+    "canonical_name": "艾伦·图灵"
+  },
+  {
+    "original_mention": "Turing",
+    "resolved_query": "Turing",
+    "linked_id": "Q37142604",
+    "canonical_name": "Turingan"
+  },
+  {
+    "original_mention": "二次世界大战",
+    "resolved_query": "二次世界大战",
+    "linked_id": "Q64553966",
+    "canonical_name": "二次世界大战后国外农业发展战略演变的教益"
+  },
+  {
+    "original_mention": "8",
+    "resolved_query": "8",
+    "linked_id": "Q23355",
+    "canonical_name": "8"
+  },
+  {
+    "original_mention": "德国海军",
+    "resolved_query": "德国海军",
+    "linked_id": "Q3120110",
+    "canonical_name": "德国海军战列舰列表"
+  },
+  {
+    "original_mention": "德国",
+    "resolved_query": "德国",
+    "linked_id": "Q183",
+    "canonical_name": "德国"
+  },
+  {
+    "original_mention": "波兰战",
+    "resolved_query": "波兰战",
+    "linked_id": "Q118938234",
+    "canonical_name": "波兰战后的第四次经济改革"
+  },
+  {
+    "original_mention": "恩尼格玛",
+    "resolved_query": "恩尼格玛",
+    "linked_id": "Q2665859",
+    "canonical_name": "恩尼格玛的破译"
+  },
+  {
+    "original_mention": "大西洋",
+    "resolved_query": "大西洋",
+    "linked_id": "Q97",
+    "canonical_name": "大西洋"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "11分钟",
+    "resolved_query": "11分钟",
+    "linked_id": "Q19877180",
+    "canonical_name": "11分钟"
+  },
+  {
+    "original_mention": "1948年",
+    "resolved_query": "1948年",
+    "linked_id": "Q5165",
+    "canonical_name": "1948年"
+  },
+  {
+    "original_mention": "奥运会",
+    "resolved_query": "奥运会",
+    "linked_id": "Q212434",
+    "canonical_name": "奥运会项目"
+  },
+  {
+    "original_mention": "汤姆·理查兹",
+    "resolved_query": "汤姆·理查兹",
+    "linked_id": "Q1065207",
+    "canonical_name": "汤姆·理查兹"
+  },
+  {
+    "original_mention": "Julius",
+    "resolved_query": "Julius",
+    "linked_id": "Q21369263",
+    "canonical_name": "朱利斯"
+  },
+  {
+    "original_mention": "印度",
+    "resolved_query": "印度",
+    "linked_id": "Q668",
+    "canonical_name": "印度"
+  },
+  {
+    "original_mention": "1911年",
+    "resolved_query": "1911年",
+    "linked_id": "Q2076",
+    "canonical_name": "1911年"
+  },
+  {
+    "original_mention": "Ethel Sara Stoney",
+    "resolved_query": "Ethel Sara Stoney",
+    "linked_id": "Q20895935",
+    "canonical_name": "Ethel Sara Stoney"
+  },
+  {
+    "original_mention": "印度",
+    "resolved_query": "印度",
+    "linked_id": "Q668",
+    "canonical_name": "印度"
+  },
+  {
+    "original_mention": "艾伦",
+    "resolved_query": "艾伦",
+    "linked_id": "Q2235472",
+    "canonical_name": "艾伦"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "伦敦",
+    "resolved_query": "伦敦",
+    "linked_id": "Q84",
+    "canonical_name": "伦敦"
+  },
+  {
+    "original_mention": "帕丁顿",
+    "resolved_query": "帕丁顿",
+    "linked_id": "Q124230",
+    "canonical_name": "帕丁顿"
+  },
+  {
+    "original_mention": "艾伦",
+    "resolved_query": "艾伦",
+    "linked_id": "Q2235472",
+    "canonical_name": "艾伦"
+  },
+  {
+    "original_mention": "印度",
+    "resolved_query": "印度",
+    "linked_id": "Q668",
+    "canonical_name": "印度"
+  },
+  {
+    "original_mention": "印度",
+    "resolved_query": "印度",
+    "linked_id": "Q668",
+    "canonical_name": "印度"
+  },
+  {
+    "original_mention": "1927年",
+    "resolved_query": "1927年",
+    "linked_id": "Q18110",
+    "canonical_name": "1927年"
+  },
+  {
+    "original_mention": "吉尔福德",
+    "resolved_query": "吉尔福德",
+    "linked_id": "Q2887275",
+    "canonical_name": "吉尔福德"
+  },
+  {
+    "original_mention": "六岁",
+    "resolved_query": "六岁",
+    "linked_id": "Q122851288",
+    "canonical_name": "六岁左右幼儿推理能力发展初探"
+  },
+  {
+    "original_mention": "圣迈克尔",
+    "resolved_query": "圣迈克尔",
+    "linked_id": "Q80160",
+    "canonical_name": "圣迈克尔"
+  },
+  {
+    "original_mention": "马尔伯勒学院",
+    "resolved_query": "马尔伯勒学院",
+    "linked_id": "Q1902016",
+    "canonical_name": "马尔伯勒学院"
+  },
+  {
+    "original_mention": "1926年",
+    "resolved_query": "1926年",
+    "linked_id": "Q5259",
+    "canonical_name": "1926年"
+  },
+  {
+    "original_mention": "十三岁",
+    "resolved_query": "十三岁",
+    "linked_id": "Q7284451",
+    "canonical_name": "十三岁之微雨"
+  },
+  {
+    "original_mention": "多塞特郡",
+    "resolved_query": "多塞特郡",
+    "linked_id": "Q23159",
+    "canonical_name": "多塞特郡"
+  },
+  {
+    "original_mention": "第一天",
+    "resolved_query": "第一天",
+    "linked_id": "Q22075080",
+    "canonical_name": "第一天"
+  },
+  {
+    "original_mention": "第一天",
+    "resolved_query": "第一天",
+    "linked_id": "Q22075080",
+    "canonical_name": "第一天"
+  },
+  {
+    "original_mention": "南安普顿",
+    "resolved_query": "南安普顿",
+    "linked_id": "Q582637",
+    "canonical_name": "南安普顿"
+  },
+  {
+    "original_mention": "六十",
+    "resolved_query": "六十",
+    "linked_id": "Q45456286",
+    "canonical_name": "钱峄"
+  },
+  {
+    "original_mention": "谢尔本",
+    "resolved_query": "谢尔本",
+    "linked_id": "Q2416708",
+    "canonical_name": "谢尔本"
+  },
+  {
+    "original_mention": "1928年",
+    "resolved_query": "1928年",
+    "linked_id": "Q19715",
+    "canonical_name": "1928年"
+  },
+  {
+    "original_mention": "16岁",
+    "resolved_query": "16岁",
+    "linked_id": "Q97311827",
+    "canonical_name": "16岁症候群"
+  },
+  {
+    "original_mention": "阿尔伯特·爱因斯坦",
+    "resolved_query": "阿尔伯特·爱因斯坦",
+    "linked_id": "Q937",
+    "canonical_name": "阿尔伯特·爱因斯坦"
+  },
+  {
+    "original_mention": "爱因斯坦",
+    "resolved_query": "爱因斯坦",
+    "linked_id": "Q16834800",
+    "canonical_name": "爱因斯坦"
+  },
+  {
+    "original_mention": "爱因斯坦",
+    "resolved_query": "爱因斯坦",
+    "linked_id": "Q16834800",
+    "canonical_name": "爱因斯坦"
+  },
+  {
+    "original_mention": "1931年",
+    "resolved_query": "1931年",
+    "linked_id": "Q18782",
+    "canonical_name": "1931年"
+  },
+  {
+    "original_mention": "剑桥大学",
+    "resolved_query": "剑桥大学",
+    "linked_id": "Q35794",
+    "canonical_name": "剑桥大学"
+  },
+  {
+    "original_mention": "1934年",
+    "resolved_query": "1934年",
+    "linked_id": "Q18714",
+    "canonical_name": "1934年"
+  },
+  {
+    "original_mention": "1935年",
+    "resolved_query": "1935年",
+    "linked_id": "Q18658",
+    "canonical_name": "1935年"
+  },
+  {
+    "original_mention": "22岁",
+    "resolved_query": "22岁",
+    "linked_id": "Q121395880",
+    "canonical_name": "22岁的回顾与思索"
+  },
+  {
+    "original_mention": "1922年",
+    "resolved_query": "1922年",
+    "linked_id": "Q2165",
+    "canonical_name": "1922年"
+  },
+  {
+    "original_mention": "英语",
+    "resolved_query": "英语",
+    "linked_id": "Q1860",
+    "canonical_name": "英语"
+  },
+  {
+    "original_mention": "1931年",
+    "resolved_query": "1931年",
+    "linked_id": "Q18782",
+    "canonical_name": "1931年"
+  },
+  {
+    "original_mention": "图灵机",
+    "resolved_query": "图灵机",
+    "linked_id": "Q163310",
+    "canonical_name": "图灵机"
+  },
+  {
+    "original_mention": "哥德尔",
+    "resolved_query": "哥德尔",
+    "linked_id": "Q19902320",
+    "canonical_name": "哥德尔"
+  },
+  {
+    "original_mention": "通用",
+    "resolved_query": "通用",
+    "linked_id": "Q2018526",
+    "canonical_name": "艺术领域"
+  },
+  {
+    "original_mention": "图灵机",
+    "resolved_query": "图灵机",
+    "linked_id": "Q163310",
+    "canonical_name": "图灵机"
+  },
+  {
+    "original_mention": "图灵机",
+    "resolved_query": "图灵机",
+    "linked_id": "Q163310",
+    "canonical_name": "图灵机"
+  },
+  {
+    "original_mention": "图灵机",
+    "resolved_query": "图灵机",
+    "linked_id": "Q163310",
+    "canonical_name": "图灵机"
+  },
+  {
+    "original_mention": "阿隆佐·邱奇",
+    "resolved_query": "阿隆佐·邱奇",
+    "linked_id": "Q92741",
+    "canonical_name": "阿隆佐·邱奇"
+  },
+  {
+    "original_mention": "通用",
+    "resolved_query": "通用",
+    "linked_id": "Q2018526",
+    "canonical_name": "艺术领域"
+  },
+  {
+    "original_mention": "普林斯顿大学",
+    "resolved_query": "普林斯顿大学",
+    "linked_id": "Q21578",
+    "canonical_name": "普林斯顿大学"
+  },
+  {
+    "original_mention": "Jane Eliza",
+    "resolved_query": "Jane Eliza",
+    "linked_id": "Q34775647",
+    "canonical_name": "Jane Elizabeth Norman"
+  },
+  {
+    "original_mention": "二",
+    "resolved_query": "二",
+    "linked_id": "Q3594928",
+    "canonical_name": "二"
+  },
+  {
+    "original_mention": "四",
+    "resolved_query": "四",
+    "linked_id": "Q3594955",
+    "canonical_name": "四"
+  },
+  {
+    "original_mention": "三",
+    "resolved_query": "三",
+    "linked_id": "Q614108",
+    "canonical_name": "三"
+  },
+  {
+    "original_mention": "1938年6月",
+    "resolved_query": "1938年6月",
+    "linked_id": "Q3188238",
+    "canonical_name": "1938年6月"
+  },
+  {
+    "original_mention": "图灵机",
+    "resolved_query": "图灵机",
+    "linked_id": "Q163310",
+    "canonical_name": "图灵机"
+  },
+  {
+    "original_mention": "冯·诺依曼",
+    "resolved_query": "冯·诺依曼",
+    "linked_id": "Q898178",
+    "canonical_name": "冯·诺依曼探测器"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "1939年",
+    "resolved_query": "1939年",
+    "linked_id": "Q4564480",
+    "canonical_name": "1939年"
+  },
+  {
+    "original_mention": "剑桥",
+    "resolved_query": "剑桥",
+    "linked_id": "Q1028279",
+    "canonical_name": "剑桥"
+  },
+  {
+    "original_mention": "Foundations of mathe",
+    "resolved_query": "Foundations of mathe",
+    "linked_id": "Q47676461",
+    "canonical_name": "Foundations of mathematics and literacy: The role of executive functioning components"
+  },
+  {
+    "original_mention": "第二次世界大战",
+    "resolved_query": "第二次世界大战",
+    "linked_id": "Q362",
+    "canonical_name": "第二次世界大战"
+  },
+  {
+    "original_mention": "德国",
+    "resolved_query": "德国",
+    "linked_id": "Q183",
+    "canonical_name": "德国"
+  },
+  {
+    "original_mention": "1938年9月",
+    "resolved_query": "1938年9月",
+    "linked_id": "Q3478957",
+    "canonical_name": "1938年9月"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "第利",
+    "resolved_query": "第利",
+    "linked_id": "Q318252",
+    "canonical_name": "第利温·诺克斯"
+  },
+  {
+    "original_mention": "德国",
+    "resolved_query": "德国",
+    "linked_id": "Q183",
+    "canonical_name": "德国"
+  },
+  {
+    "original_mention": "恩尼格玛",
+    "resolved_query": "恩尼格玛",
+    "linked_id": "Q2665859",
+    "canonical_name": "恩尼格玛的破译"
+  },
+  {
+    "original_mention": "1939年7月",
+    "resolved_query": "1939年7月",
+    "linked_id": "Q3188175",
+    "canonical_name": "1939年7月"
+  },
+  {
+    "original_mention": "波兰",
+    "resolved_query": "波兰",
+    "linked_id": "Q204930",
+    "canonical_name": "波兰"
+  },
+  {
+    "original_mention": "华沙",
+    "resolved_query": "华沙",
+    "linked_id": "Q1919763",
+    "canonical_name": "华沙"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "法国",
+    "resolved_query": "法国",
+    "linked_id": "Q142",
+    "canonical_name": "法国"
+  },
+  {
+    "original_mention": "恩尼格玛",
+    "resolved_query": "恩尼格玛",
+    "linked_id": "Q2665859",
+    "canonical_name": "恩尼格玛的破译"
+  },
+  {
+    "original_mention": "诺克斯",
+    "resolved_query": "诺克斯",
+    "linked_id": "Q7045488",
+    "canonical_name": "诺克斯"
+  },
+  {
+    "original_mention": "波兰",
+    "resolved_query": "波兰",
+    "linked_id": "Q204930",
+    "canonical_name": "波兰"
+  },
+  {
+    "original_mention": "德国人",
+    "resolved_query": "德国人",
+    "linked_id": "Q56040",
+    "canonical_name": "德国人民警察"
+  },
+  {
+    "original_mention": "波兰",
+    "resolved_query": "波兰",
+    "linked_id": "Q204930",
+    "canonical_name": "波兰"
+  },
+  {
+    "original_mention": "1939年",
+    "resolved_query": "1939年",
+    "linked_id": "Q4564480",
+    "canonical_name": "1939年"
+  },
+  {
+    "original_mention": "英国皇家海军",
+    "resolved_query": "英国皇家海军",
+    "linked_id": "Q172771",
+    "canonical_name": "英国皇家海军"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "德国",
+    "resolved_query": "德国",
+    "linked_id": "Q183",
+    "canonical_name": "德国"
+  },
+  {
+    "original_mention": "德国",
+    "resolved_query": "德国",
+    "linked_id": "Q183",
+    "canonical_name": "德国"
+  },
+  {
+    "original_mention": "德国",
+    "resolved_query": "德国",
+    "linked_id": "Q183",
+    "canonical_name": "德国"
+  },
+  {
+    "original_mention": "两",
+    "resolved_query": "两",
+    "linked_id": "Q876244",
+    "canonical_name": "两"
+  },
+  {
+    "original_mention": "GC",
+    "resolved_query": "GC",
+    "linked_id": "Q182172",
+    "canonical_name": "任天堂GameCube"
+  },
+  {
+    "original_mention": "2012年4月",
+    "resolved_query": "2012年4月",
+    "linked_id": "Q622013",
+    "canonical_name": "2012年4月"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "一百周年",
+    "resolved_query": "一百周年",
+    "linked_id": "Q48995876",
+    "canonical_name": "百年纪念"
+  },
+  {
+    "original_mention": "GCHQ",
+    "resolved_query": "GCHQ",
+    "linked_id": "Q5512985",
+    "canonical_name": "GCHQ Bude"
+  },
+  {
+    "original_mention": "两",
+    "resolved_query": "两",
+    "linked_id": "Q876244",
+    "canonical_name": "两"
+  },
+  {
+    "original_mention": "恩尼格玛",
+    "resolved_query": "恩尼格玛",
+    "linked_id": "Q2665859",
+    "canonical_name": "恩尼格玛的破译"
+  },
+  {
+    "original_mention": "Ronald Lewin",
+    "resolved_query": "Ronald Lewin",
+    "linked_id": "Q7365059",
+    "canonical_name": "Ronald Lewin"
+  },
+  {
+    "original_mention": "六月",
+    "resolved_query": "六月",
+    "linked_id": "Q839146",
+    "canonical_name": "六月"
+  },
+  {
+    "original_mention": "第一周",
+    "resolved_query": "第一周",
+    "linked_id": "Q10457988",
+    "canonical_name": "第一周播剧场"
+  },
+  {
+    "original_mention": "希尔顿",
+    "resolved_query": "希尔顿",
+    "linked_id": "Q16256942",
+    "canonical_name": "希尔顿"
+  },
+  {
+    "original_mention": "8",
+    "resolved_query": "8",
+    "linked_id": "Q23355",
+    "canonical_name": "8"
+  },
+  {
+    "original_mention": "艾伦·图灵",
+    "resolved_query": "艾伦·图灵",
+    "linked_id": "Q7251",
+    "canonical_name": "艾伦·图灵"
+  },
+  {
+    "original_mention": "第二次世界大战",
+    "resolved_query": "第二次世界大战",
+    "linked_id": "Q362",
+    "canonical_name": "第二次世界大战"
+  },
+  {
+    "original_mention": "希尔顿",
+    "resolved_query": "希尔顿",
+    "linked_id": "Q16256942",
+    "canonical_name": "希尔顿"
+  },
+  {
+    "original_mention": "伦敦",
+    "resolved_query": "伦敦",
+    "linked_id": "Q84",
+    "canonical_name": "伦敦"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "Thomas Richards",
+    "resolved_query": "Thomas Richards",
+    "linked_id": "Q7793511",
+    "canonical_name": "Thomas Richards"
+  },
+  {
+    "original_mention": "奥运会",
+    "resolved_query": "奥运会",
+    "linked_id": "Q212434",
+    "canonical_name": "奥运会项目"
+  },
+  {
+    "original_mention": "11分钟",
+    "resolved_query": "11分钟",
+    "linked_id": "Q19877180",
+    "canonical_name": "11分钟"
+  },
+  {
+    "original_mention": "沃尔顿",
+    "resolved_query": "沃尔顿",
+    "linked_id": "Q29370047",
+    "canonical_name": "沃尔顿"
+  },
+  {
+    "original_mention": "哈里·欣斯利",
+    "resolved_query": "哈里·欣斯利",
+    "linked_id": "Q834014",
+    "canonical_name": "哈里·欣斯利"
+  },
+  {
+    "original_mention": "欧洲",
+    "resolved_query": "欧洲",
+    "linked_id": "Q46",
+    "canonical_name": "欧洲"
+  },
+  {
+    "original_mention": "1400",
+    "resolved_query": "1400",
+    "linked_id": "Q120954586",
+    "canonical_name": "1400"
+  },
+  {
+    "original_mention": "官方保密法",
+    "resolved_query": "官方保密法",
+    "linked_id": "Q7079565",
+    "canonical_name": "官方保密法"
+  },
+  {
+    "original_mention": "1946 年",
+    "resolved_query": "1946 年",
+    "linked_id": "Q19875971",
+    "canonical_name": "1946 年新年荣誉"
+  },
+  {
+    "original_mention": "乔治",
+    "resolved_query": "乔治",
+    "linked_id": "Q15921732",
+    "canonical_name": "乔治"
+  },
+  {
+    "original_mention": "英",
+    "resolved_query": "英",
+    "linked_id": "Q94957785",
+    "canonical_name": "英"
+  },
+  {
+    "original_mention": "1949年",
+    "resolved_query": "1949年",
+    "linked_id": "Q5188",
+    "canonical_name": "1949年"
+  },
+  {
+    "original_mention": "1952年",
+    "resolved_query": "1952年",
+    "linked_id": "Q5272",
+    "canonical_name": "1952年"
+  },
+  {
+    "original_mention": "半小时",
+    "resolved_query": "半小时",
+    "linked_id": "Q66729835",
+    "canonical_name": "半小时妊娠试验"
+  },
+  {
+    "original_mention": "美国新墨西哥州",
+    "resolved_query": "美国新墨西哥州",
+    "linked_id": "Q121406563",
+    "canonical_name": "美国新墨西哥州印第安建筑"
+  },
+  {
+    "original_mention": "国家实验室",
+    "resolved_query": "国家实验室",
+    "linked_id": "Q56280417",
+    "canonical_name": "国家实验室"
+  },
+  {
+    "original_mention": "第一",
+    "resolved_query": "第一",
+    "linked_id": "Q28469711",
+    "canonical_name": "第一"
+  },
+  {
+    "original_mention": "1952年",
+    "resolved_query": "1952年",
+    "linked_id": "Q5272",
+    "canonical_name": "1952年"
+  },
+  {
+    "original_mention": "1952年",
+    "resolved_query": "1952年",
+    "linked_id": "Q5272",
+    "canonical_name": "1952年"
+  },
+  {
+    "original_mention": "英语",
+    "resolved_query": "英语",
+    "linked_id": "Q1860",
+    "canonical_name": "英语"
+  },
+  {
+    "original_mention": "1992年《",
+    "resolved_query": "1992年《",
+    "linked_id": "Q121867055",
+    "canonical_name": "1992年《国外社会科学情况》总目录"
+  },
+  {
+    "original_mention": "2012年",
+    "resolved_query": "2012年",
+    "linked_id": "Q1990",
+    "canonical_name": "2012年"
+  },
+  {
+    "original_mention": "1952年",
+    "resolved_query": "1952年",
+    "linked_id": "Q5272",
+    "canonical_name": "1952年"
+  },
+  {
+    "original_mention": "一",
+    "resolved_query": "一",
+    "linked_id": "Q34632706",
+    "canonical_name": "一"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "两",
+    "resolved_query": "两",
+    "linked_id": "Q876244",
+    "canonical_name": "两"
+  },
+  {
+    "original_mention": "一年",
+    "resolved_query": "一年",
+    "linked_id": "Q134860083",
+    "canonical_name": "一年"
+  },
+  {
+    "original_mention": "1954年",
+    "resolved_query": "1954年",
+    "linked_id": "Q18581",
+    "canonical_name": "1954年"
+  },
+  {
+    "original_mention": "氰化物",
+    "resolved_query": "氰化物",
+    "linked_id": "Q55076544",
+    "canonical_name": "氰化物"
+  },
+  {
+    "original_mention": "Ethel Sara Stoney",
+    "resolved_query": "Ethel Sara Stoney",
+    "linked_id": "Q20895935",
+    "canonical_name": "Ethel Sara Stoney"
+  },
+  {
+    "original_mention": "2009年9月10日",
+    "resolved_query": "2009年9月10日",
+    "linked_id": "Q22663863",
+    "canonical_name": "2009年9月10日"
+  },
+  {
+    "original_mention": "3万",
+    "resolved_query": "3万",
+    "linked_id": "Q119969768",
+    "canonical_name": "3万年来亚洲降水与大气环流变化重建和模拟综述"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "戈登·布朗",
+    "resolved_query": "戈登·布朗",
+    "linked_id": "Q10648",
+    "canonical_name": "戈登·布朗"
+  },
+  {
+    "original_mention": "每日电讯报",
+    "resolved_query": "每日电讯报",
+    "linked_id": "Q192621",
+    "canonical_name": "每日电讯报"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "艾伦·图灵",
+    "resolved_query": "艾伦·图灵",
+    "linked_id": "Q7251",
+    "canonical_name": "艾伦·图灵"
+  },
+  {
+    "original_mention": "2012年",
+    "resolved_query": "2012年",
+    "linked_id": "Q1990",
+    "canonical_name": "2012年"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "上议院",
+    "resolved_query": "上议院",
+    "linked_id": "Q5187652",
+    "canonical_name": "上议院"
+  },
+  {
+    "original_mention": "麦克纳利",
+    "resolved_query": "麦克纳利",
+    "linked_id": "Q2426067",
+    "canonical_name": "麦克纳利勋爵"
+  },
+  {
+    "original_mention": "勋爵",
+    "resolved_query": "勋爵",
+    "linked_id": "Q12552047",
+    "canonical_name": "勋爵"
+  },
+  {
+    "original_mention": "今天",
+    "resolved_query": "今天",
+    "linked_id": "Q3151690",
+    "canonical_name": "今天"
+  },
+  {
+    "original_mention": "今日",
+    "resolved_query": "今日",
+    "linked_id": "Q4353208",
+    "canonical_name": "今日"
+  },
+  {
+    "original_mention": "2013年12月24日",
+    "resolved_query": "2013年12月24日",
+    "linked_id": "Q17982312",
+    "canonical_name": "2013年12月24日"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "伊丽莎白",
+    "resolved_query": "伊丽莎白",
+    "linked_id": "Q385468",
+    "canonical_name": "伊丽莎白"
+  },
+  {
+    "original_mention": "1952年",
+    "resolved_query": "1952年",
+    "linked_id": "Q5272",
+    "canonical_name": "1952年"
+  },
+  {
+    "original_mention": "艾伦·图灵",
+    "resolved_query": "艾伦·图灵",
+    "linked_id": "Q7251",
+    "canonical_name": "艾伦·图灵"
+  },
+  {
+    "original_mention": "2015年2月23日",
+    "resolved_query": "2015年2月23日",
+    "linked_id": "Q19764437",
+    "canonical_name": "2015年2月23日"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "50万",
+    "resolved_query": "50万",
+    "linked_id": "Q122357159",
+    "canonical_name": "50万中小学教师将接受国家级培训"
+  },
+  {
+    "original_mention": "英国",
+    "resolved_query": "英国",
+    "linked_id": "Q145",
+    "canonical_name": "英国"
+  },
+  {
+    "original_mention": "49",
+    "resolved_query": "49",
+    "linked_id": "Q712758",
+    "canonical_name": "49"
+  },
+  {
+    "original_mention": "2017年1月31日",
+    "resolved_query": "2017年1月31日",
+    "linked_id": "Q28799645",
+    "canonical_name": "2017年1月31日"
+  },
+  {
+    "original_mention": "艾伦·图灵",
+    "resolved_query": "艾伦·图灵",
+    "linked_id": "Q7251",
+    "canonical_name": "艾伦·图灵"
+  },
+  {
+    "original_mention": "1946年",
+    "resolved_query": "1946年",
+    "linked_id": "Q18610",
+    "canonical_name": "1946年"
+  },
+  {
+    "original_mention": "英",
+    "resolved_query": "英",
+    "linked_id": "Q94957785",
+    "canonical_name": "英"
+  },
+  {
+    "original_mention": "1951年",
+    "resolved_query": "1951年",
+    "linked_id": "Q18591",
+    "canonical_name": "1951年"
+  },
+  {
+    "original_mention": "皇家学会",
+    "resolved_query": "皇家学会",
+    "linked_id": "Q123885",
+    "canonical_name": "英国皇家学会"
+  },
+  {
+    "original_mention": "1966年",
+    "resolved_query": "1966年",
+    "linked_id": "Q2649",
+    "canonical_name": "1966年"
+  },
+  {
+    "original_mention": "计算机协会",
+    "resolved_query": "计算机协会",
+    "linked_id": "Q127992",
+    "canonical_name": "计算机协会"
+  },
+  {
+    "original_mention": "诺贝尔奖",
+    "resolved_query": "诺贝尔奖",
+    "linked_id": "Q7191",
+    "canonical_name": "诺贝尔奖"
+  },
+  {
+    "original_mention": "半",
+    "resolved_query": "半",
+    "linked_id": "Q11456",
+    "canonical_name": "半导体"
+  },
+  {
+    "original_mention": "史蒂夫·乔布斯",
+    "resolved_query": "史蒂夫·乔布斯",
+    "linked_id": "Q48835074",
+    "canonical_name": "史蒂夫·乔布斯剧院"
+  },
+  {
+    "original_mention": "史蒂芬·弗莱",
+    "resolved_query": "史蒂芬·弗莱",
+    "linked_id": "Q192912",
+    "canonical_name": "史蒂芬·弗莱"
+  },
+  {
+    "original_mention": "God",
+    "resolved_query": "God",
+    "linked_id": "Q106078731",
+    "canonical_name": "God"
+  },
+  {
+    "original_mention": "NVIDIA",
+    "resolved_query": "NVIDIA",
+    "linked_id": "Q705442",
+    "canonical_name": "NVIDIA PhysX"
+  },
+  {
+    "original_mention": "16",
+    "resolved_query": "16",
+    "linked_id": "Q23649984",
+    "canonical_name": "16"
+  },
+  {
+    "original_mention": "NVIDIA",
+    "resolved_query": "NVIDIA",
+    "linked_id": "Q705442",
+    "canonical_name": "NVIDIA PhysX"
+  },
+  {
+    "original_mention": "20",
+    "resolved_query": "20",
+    "linked_id": "Q40292",
+    "canonical_name": "20"
+  },
+  {
+    "original_mention": "模仿游戏",
+    "resolved_query": "模仿游戏",
+    "linked_id": "Q14918344",
+    "canonical_name": "模仿游戏"
+  },
+  {
+    "original_mention": "2014年",
+    "resolved_query": "2014年",
+    "linked_id": "Q1999",
+    "canonical_name": "2014年"
+  },
+  {
+    "original_mention": "本尼迪克特·康伯巴奇",
+    "resolved_query": "本尼迪克特·康伯巴奇",
+    "linked_id": "Q244674",
+    "canonical_name": "本尼迪克特·康伯巴奇"
+  },
+  {
+    "original_mention": "艾伦·图灵",
+    "resolved_query": "艾伦·图灵",
+    "linked_id": "Q7251",
+    "canonical_name": "艾伦·图灵"
+  },
+  {
+    "original_mention": "图灵机",
+    "resolved_query": "图灵机",
+    "linked_id": "Q163310",
+    "canonical_name": "图灵机"
+  },
+  {
+    "original_mention": "2012",
+    "resolved_query": "2012",
+    "linked_id": "Q184605",
+    "canonical_name": "2012"
+  },
+  {
+    "original_mention": "档案馆",
+    "resolved_query": "档案馆",
+    "linked_id": "Q166118",
+    "canonical_name": "档案馆"
+  },
+  {
+    "original_mention": "档案馆",
+    "resolved_query": "档案馆",
+    "linked_id": "Q166118",
+    "canonical_name": "档案馆"
+  },
+  {
+    "original_mention": "档案馆",
+    "resolved_query": "档案馆",
+    "linked_id": "Q166118",
+    "canonical_name": "档案馆"
+  },
+  {
+    "original_mention": "美国国会",
+    "resolved_query": "美国国会",
+    "linked_id": "Q11268",
+    "canonical_name": "美国国会"
+  },
+  {
+    "original_mention": "27",
+    "resolved_query": "27",
+    "linked_id": "Q433353",
+    "canonical_name": "27"
+  },
+  {
+    "original_mention": "James",
+    "resolved_query": "James",
+    "linked_id": "Q677191",
+    "canonical_name": "James"
+  },
+  {
+    "original_mention": "2001",
+    "resolved_query": "2001",
+    "linked_id": "Q841792",
+    "canonical_name": "2001"
+  },
+  {
+    "original_mention": "12",
+    "resolved_query": "12",
+    "linked_id": "Q23649983",
+    "canonical_name": "12"
+  },
+  {
+    "original_mention": "11",
+    "resolved_query": "11",
+    "linked_id": "Q37136",
+    "canonical_name": "11"
+  },
+  {
+    "original_mention": "2007",
+    "resolved_query": "2007",
+    "linked_id": "Q907344",
+    "canonical_name": "2007"
+  },
+  {
+    "original_mention": "档案馆",
+    "resolved_query": "档案馆",
+    "linked_id": "Q166118",
+    "canonical_name": "档案馆"
+  },
+  {
+    "original_mention": "中央研究院",
+    "resolved_query": "中央研究院",
+    "linked_id": "Q337266",
+    "canonical_name": "中央研究院"
+  },
+  {
+    "original_mention": "台大",
+    "resolved_query": "台大",
+    "linked_id": "Q698114",
+    "canonical_name": "台大医院站"
+  },
+  {
+    "original_mention": "艾伦·图灵",
+    "resolved_query": "艾伦·图灵",
+    "linked_id": "Q7251",
+    "canonical_name": "艾伦·图灵"
+  },
+  {
+    "original_mention": "档案馆",
+    "resolved_query": "档案馆",
+    "linked_id": "Q166118",
+    "canonical_name": "档案馆"
+  },
+  {
+    "original_mention": "艾伦·图灵",
+    "resolved_query": "艾伦·图灵",
+    "linked_id": "Q7251",
+    "canonical_name": "艾伦·图灵"
+  },
+  {
+    "original_mention": "数字化",
+    "resolved_query": "数字化",
+    "linked_id": "Q55110225",
+    "canonical_name": "数字化单一市场版权指令"
+  }
+]

@@ -1,0 +1,1180 @@
+[
+  {
+    "canonical_name": "艾伦·麦席森·图灵",
+    "type": "PERSON",
+    "mentions": [
+      "艾伦·麦席森·图灵"
+    ]
+  },
+  {
+    "canonical_name": "英语",
+    "type": "LANGUAGE",
+    "mentions": [
+      "英语"
+    ]
+  },
+  {
+    "canonical_name": "阿兰·图灵",
+    "type": "PERSON",
+    "mentions": [
+      "阿兰·图灵",
+      "帕丁顿",
+      "艾伦·图灵"
+    ]
+  },
+  {
+    "canonical_name": "Turing",
+    "type": "PERSON",
+    "mentions": [
+      "Turing"
+    ]
+  },
+  {
+    "canonical_name": "1912年6月23日—1954年",
+    "type": "DATE",
+    "mentions": [
+      "1912年6月23日—1954年",
+      "1936年9月到1938年7月",
+      "1938年9月",
+      "2012年4月",
+      "1945年到1948年",
+      "2009年9月10日",
+      "2013年12月24日",
+      "2015年2月23日",
+      "2017年1月31日"
+    ]
+  },
+  {
+    "canonical_name": "英国司法部",
+    "type": "ORG",
+    "mentions": [
+      "英国电脑",
+      "英国司法部"
+    ]
+  },
+  {
+    "canonical_name": "他",
+    "type": "PERSON",
+    "mentions": [
+      "他"
+    ]
+  },
+  {
+    "canonical_name": "第二次世界大战",
+    "type": "EVENT",
+    "mentions": [
+      "二次世界大战",
+      "第二次世界大战"
+    ]
+  },
+  {
+    "canonical_name": "8",
+    "type": "CARDINAL",
+    "mentions": [
+      "8"
+    ]
+  },
+  {
+    "canonical_name": "德国海军",
+    "type": "ORG",
+    "mentions": [
+      "德国海军"
+    ]
+  },
+  {
+    "canonical_name": "他",
+    "type": "PERSON",
+    "mentions": [
+      "他"
+    ]
+  },
+  {
+    "canonical_name": "德国",
+    "type": "GPE",
+    "mentions": [
+      "德国"
+    ]
+  },
+  {
+    "canonical_name": "阿尔伯特·爱因斯坦",
+    "type": "PERSON",
+    "mentions": [
+      "波兰战",
+      "阿尔伯特·爱因斯坦"
+    ]
+  },
+  {
+    "canonical_name": "恩尼格玛",
+    "type": "NORP",
+    "mentions": [
+      "恩尼格玛"
+    ]
+  },
+  {
+    "canonical_name": "大西洋",
+    "type": "LOC",
+    "mentions": [
+      "大西洋"
+    ]
+  },
+  {
+    "canonical_name": "计算机器和智能",
+    "type": "WORK_OF_ART",
+    "mentions": [
+      "计算机器和智能"
+    ]
+  },
+  {
+    "canonical_name": "英国",
+    "type": "GPE",
+    "mentions": [
+      "英国"
+    ]
+  },
+  {
+    "canonical_name": "他",
+    "type": "PERSON",
+    "mentions": [
+      "他"
+    ]
+  },
+  {
+    "canonical_name": "2小时46分03秒",
+    "type": "TIME",
+    "mentions": [
+      "2小时46分03秒",
+      "2小时35分钟"
+    ]
+  },
+  {
+    "canonical_name": "1948年奥林匹克运动会",
+    "type": "EVENT",
+    "mentions": [
+      "1948年奥林匹克运动会"
+    ]
+  },
+  {
+    "canonical_name": "11分钟",
+    "type": "TIME",
+    "mentions": [
+      "11分钟"
+    ]
+  },
+  {
+    "canonical_name": "1948年",
+    "type": "DATE",
+    "mentions": [
+      "1948年",
+      "1911年",
+      "1949年",
+      "2012年",
+      "1952年",
+      "1954年"
+    ]
+  },
+  {
+    "canonical_name": "奥运会",
+    "type": "EVENT",
+    "mentions": [
+      "奥运会"
+    ]
+  },
+  {
+    "canonical_name": "汤姆·理查兹",
+    "type": "PERSON",
+    "mentions": [
+      "汤姆·理查兹"
+    ]
+  },
+  {
+    "canonical_name": "朱利斯·麦席森·图灵",
+    "type": "PERSON",
+    "mentions": [
+      "朱利斯·麦席森·图灵"
+    ]
+  },
+  {
+    "canonical_name": "Julius",
+    "type": "PERSON",
+    "mentions": [
+      "Julius"
+    ]
+  },
+  {
+    "canonical_name": "印度",
+    "type": "GPE",
+    "mentions": [
+      "印度"
+    ]
+  },
+  {
+    "canonical_name": "Ethel Sara Stoney",
+    "type": "PERSON",
+    "mentions": [
+      "Ethel Sara Stoney"
+    ]
+  },
+  {
+    "canonical_name": "印度",
+    "type": "GPE",
+    "mentions": [
+      "印度",
+      "英国"
+    ]
+  },
+  {
+    "canonical_name": "艾伦",
+    "type": "PERSON",
+    "mentions": [
+      "艾伦"
+    ]
+  },
+  {
+    "canonical_name": "吉尔福德",
+    "type": "GPE",
+    "mentions": [
+      "英国",
+      "吉尔福德",
+      "南安普顿",
+      "德国",
+      "法国"
+    ]
+  },
+  {
+    "canonical_name": "伦敦",
+    "type": "GPE",
+    "mentions": [
+      "伦敦"
+    ]
+  },
+  {
+    "canonical_name": "艾伦",
+    "type": "PERSON",
+    "mentions": [
+      "艾伦"
+    ]
+  },
+  {
+    "canonical_name": "他",
+    "type": "PERSON",
+    "mentions": [
+      "他"
+    ]
+  },
+  {
+    "canonical_name": "印度",
+    "type": "GPE",
+    "mentions": [
+      "印度"
+    ]
+  },
+  {
+    "canonical_name": "印度",
+    "type": "GPE",
+    "mentions": [
+      "印度"
+    ]
+  },
+  {
+    "canonical_name": "他",
+    "type": "PERSON",
+    "mentions": [
+      "他"
+    ]
+  },
+  {
+    "canonical_name": "1938年6月",
+    "type": "DATE",
+    "mentions": [
+      "1927年",
+      "1926年",
+      "1928年",
+      "1931年",
+      "1934年",
+      "1935年",
+      "1938年6月",
+      "1939年7月",
+      "1952年"
+    ]
+  },
+  {
+    "canonical_name": "1948 年",
+    "type": "DATE",
+    "mentions": [
+      "六岁",
+      "十三岁",
+      "第一天",
+      "16岁",
+      "22岁",
+      "70 年",
+      "1948 年",
+      "1946 年"
+    ]
+  },
+  {
+    "canonical_name": "他",
+    "type": "PERSON",
+    "mentions": [
+      "他"
+    ]
+  },
+  {
+    "canonical_name": "圣迈克尔",
+    "type": "PERSON",
+    "mentions": [
+      "圣迈克尔"
+    ]
+  },
+  {
+    "canonical_name": "马尔伯勒学院",
+    "type": "ORG",
+    "mentions": [
+      "马尔伯勒学院",
+      "普林斯顿大学"
+    ]
+  },
+  {
+    "canonical_name": "他",
+    "type": "PERSON",
+    "mentions": [
+      "他"
+    ]
+  },
+  {
+    "canonical_name": "多塞特郡",
+    "type": "PERSON",
+    "mentions": [
+      "多塞特郡"
+    ]
+  },
+  {
+    "canonical_name": "第一天",
+    "type": "DATE",
+    "mentions": [
+      "第一天",
+      "第一周",
+      "一年"
+    ]
+  },
+  {
+    "canonical_name": "六十",
+    "type": "CARDINAL",
+    "mentions": [
+      "六十",
+      "两",
+      "一"
+    ]
+  },
+  {
+    "canonical_name": "谢尔本",
+    "type": "PERSON",
+    "mentions": [
+      "谢尔本"
+    ]
+  },
+  {
+    "canonical_name": "他",
+    "type": "PERSON",
+    "mentions": [
+      "他"
+    ]
+  },
+  {
+    "canonical_name": "他",
+    "type": "PERSON",
+    "mentions": [
+      "他"
+    ]
+  },
+  {
+    "canonical_name": "他",
+    "type": "PERSON",
+    "mentions": [
+      "他"
+    ]
+  },
+  {
+    "canonical_name": "爱因斯坦",
+    "type": "PERSON",
+    "mentions": [
+      "爱因斯坦"
+    ]
+  },
+  {
+    "canonical_name": "爱因斯坦",
+    "type": "PERSON",
+    "mentions": [
+      "爱因斯坦"
+    ]
+  },
+  {
+    "canonical_name": "剑桥大学",
+    "type": "ORG",
+    "mentions": [
+      "剑桥大学",
+      "美国国会"
+    ]
+  },
+  {
+    "canonical_name": "他",
+    "type": "PERSON",
+    "mentions": [
+      "他"
+    ]
+  },
+  {
+    "canonical_name": "他",
+    "type": "PERSON",
+    "mentions": [
+      "他"
+    ]
+  },
+  {
+    "canonical_name": "1922年",
+    "type": "CARDINAL",
+    "mentions": [
+      "1922年"
+    ]
+  },
+  {
+    "canonical_name": "论可计算数",
+    "type": "WORK_OF_ART",
+    "mentions": [
+      "论可计算数"
+    ]
+  },
+  {
+    "canonical_name": "1931年",
+    "type": "DATE",
+    "mentions": [
+      "1931年"
+    ]
+  },
+  {
+    "canonical_name": "图灵机",
+    "type": "GPE",
+    "mentions": [
+      "图灵机"
+    ]
+  },
+  {
+    "canonical_name": "哥德尔",
+    "type": "GPE",
+    "mentions": [
+      "哥德尔",
+      "图灵机",
+      "德国"
+    ]
+  },
+  {
+    "canonical_name": "通用",
+    "type": "ORG",
+    "mentions": [
+      "通用"
+    ]
+  },
+  {
+    "canonical_name": "图灵机",
+    "type": "ORG",
+    "mentions": [
+      "图灵机"
+    ]
+  },
+  {
+    "canonical_name": "图灵机",
+    "type": "ORG",
+    "mentions": [
+      "图灵机"
+    ]
+  },
+  {
+    "canonical_name": "本尼迪克特·康伯巴奇",
+    "type": "PERSON",
+    "mentions": [
+      "阿隆佐·邱奇",
+      "艾伦·图灵",
+      "本尼迪克特·康伯巴奇"
+    ]
+  },
+  {
+    "canonical_name": "几个月",
+    "type": "DATE",
+    "mentions": [
+      "几个月"
+    ]
+  },
+  {
+    "canonical_name": "通用",
+    "type": "ORG",
+    "mentions": [
+      "通用"
+    ]
+  },
+  {
+    "canonical_name": "第二年",
+    "type": "DATE",
+    "mentions": [
+      "第二年"
+    ]
+  },
+  {
+    "canonical_name": "简·伊丽莎·宝洁奖学金",
+    "type": "PERSON",
+    "mentions": [
+      "简·伊丽莎·宝洁奖学金"
+    ]
+  },
+  {
+    "canonical_name": "Jane Eliza",
+    "type": "PERSON",
+    "mentions": [
+      "Jane Eliza"
+    ]
+  },
+  {
+    "canonical_name": "二",
+    "type": "CARDINAL",
+    "mentions": [
+      "二"
+    ]
+  },
+  {
+    "canonical_name": "四",
+    "type": "CARDINAL",
+    "mentions": [
+      "四",
+      "半"
+    ]
+  },
+  {
+    "canonical_name": "三",
+    "type": "CARDINAL",
+    "mentions": [
+      "三"
+    ]
+  },
+  {
+    "canonical_name": "林斯顿",
+    "type": "PERSON",
+    "mentions": [
+      "林斯顿"
+    ]
+  },
+  {
+    "canonical_name": "图灵机",
+    "type": "GPE",
+    "mentions": [
+      "图灵机"
+    ]
+  },
+  {
+    "canonical_name": "冯·诺依曼",
+    "type": "PERSON",
+    "mentions": [
+      "冯·诺依曼",
+      "艾伦·图灵"
+    ]
+  },
+  {
+    "canonical_name": "英国",
+    "type": "GPE",
+    "mentions": [
+      "英国"
+    ]
+  },
+  {
+    "canonical_name": "1939年",
+    "type": "DATE",
+    "mentions": [
+      "1939年"
+    ]
+  },
+  {
+    "canonical_name": "剑桥",
+    "type": "ORG",
+    "mentions": [
+      "剑桥"
+    ]
+  },
+  {
+    "canonical_name": "Foundations of mathe",
+    "type": "PERSON",
+    "mentions": [
+      "Foundations of mathe"
+    ]
+  },
+  {
+    "canonical_name": "第利",
+    "type": "ORDINAL",
+    "mentions": [
+      "第利"
+    ]
+  },
+  {
+    "canonical_name": "温·诺克斯",
+    "type": "PERSON",
+    "mentions": [
+      "温·诺克斯"
+    ]
+  },
+  {
+    "canonical_name": "恩尼格玛",
+    "type": "NORP",
+    "mentions": [
+      "恩尼格玛"
+    ]
+  },
+  {
+    "canonical_name": "波兰",
+    "type": "GPE",
+    "mentions": [
+      "波兰"
+    ]
+  },
+  {
+    "canonical_name": "华沙",
+    "type": "GPE",
+    "mentions": [
+      "华沙"
+    ]
+  },
+  {
+    "canonical_name": "英国",
+    "type": "GPE",
+    "mentions": [
+      "英国"
+    ]
+  },
+  {
+    "canonical_name": "恩尼格玛",
+    "type": "GPE",
+    "mentions": [
+      "恩尼格玛"
+    ]
+  },
+  {
+    "canonical_name": "诺克斯",
+    "type": "GPE",
+    "mentions": [
+      "诺克斯"
+    ]
+  },
+  {
+    "canonical_name": "波兰",
+    "type": "GPE",
+    "mentions": [
+      "波兰",
+      "英国"
+    ]
+  },
+  {
+    "canonical_name": "德国人",
+    "type": "NORP",
+    "mentions": [
+      "德国人"
+    ]
+  },
+  {
+    "canonical_name": "波兰",
+    "type": "GPE",
+    "mentions": [
+      "波兰",
+      "德国"
+    ]
+  },
+  {
+    "canonical_name": "英国皇家海军",
+    "type": "ORG",
+    "mentions": [
+      "英国皇家海军"
+    ]
+  },
+  {
+    "canonical_name": "两年后",
+    "type": "DATE",
+    "mentions": [
+      "两年后"
+    ]
+  },
+  {
+    "canonical_name": "GC",
+    "type": "PERSON",
+    "mentions": [
+      "GC"
+    ]
+  },
+  {
+    "canonical_name": "一百周年",
+    "type": "DATE",
+    "mentions": [
+      "一百周年"
+    ]
+  },
+  {
+    "canonical_name": "GCHQ",
+    "type": "GPE",
+    "mentions": [
+      "GCHQ"
+    ]
+  },
+  {
+    "canonical_name": "两",
+    "type": "CARDINAL",
+    "mentions": [
+      "两"
+    ]
+  },
+  {
+    "canonical_name": "恩尼格玛",
+    "type": "NORP",
+    "mentions": [
+      "恩尼格玛"
+    ]
+  },
+  {
+    "canonical_name": "Ronald Lewin",
+    "type": "PERSON",
+    "mentions": [
+      "Ronald Lewin"
+    ]
+  },
+  {
+    "canonical_name": "六月",
+    "type": "DATE",
+    "mentions": [
+      "六月",
+      "今日"
+    ]
+  },
+  {
+    "canonical_name": "史蒂夫·乔布斯",
+    "type": "PERSON",
+    "mentions": [
+      "希尔顿",
+      "戈登·布朗",
+      "史蒂夫·乔布斯",
+      "艾伦·图灵"
+    ]
+  },
+  {
+    "canonical_name": "8",
+    "type": "CARDINAL",
+    "mentions": [
+      "8"
+    ]
+  },
+  {
+    "canonical_name": "解码纳粹秘密",
+    "type": "LAW",
+    "mentions": [
+      "解码纳粹秘密"
+    ]
+  },
+  {
+    "canonical_name": "40 英里",
+    "type": "QUANTITY",
+    "mentions": [
+      "40 英里"
+    ]
+  },
+  {
+    "canonical_name": "64 公里",
+    "type": "QUANTITY",
+    "mentions": [
+      "64 公里"
+    ]
+  },
+  {
+    "canonical_name": "Thomas Richards",
+    "type": "PERSON",
+    "mentions": [
+      "Thomas Richards"
+    ]
+  },
+  {
+    "canonical_name": "奥运会",
+    "type": "EVENT",
+    "mentions": [
+      "奥运会"
+    ]
+  },
+  {
+    "canonical_name": "沃尔顿",
+    "type": "PERSON",
+    "mentions": [
+      "沃尔顿"
+    ]
+  },
+  {
+    "canonical_name": "哈里·欣斯利",
+    "type": "PERSON",
+    "mentions": [
+      "哈里·欣斯利"
+    ]
+  },
+  {
+    "canonical_name": "欧洲",
+    "type": "LOC",
+    "mentions": [
+      "欧洲"
+    ]
+  },
+  {
+    "canonical_name": "两年多",
+    "type": "DATE",
+    "mentions": [
+      "两年多"
+    ]
+  },
+  {
+    "canonical_name": "1400",
+    "type": "CARDINAL",
+    "mentions": [
+      "1400",
+      "3万",
+      "50万"
+    ]
+  },
+  {
+    "canonical_name": "官方保密法",
+    "type": "LAW",
+    "mentions": [
+      "官方保密法"
+    ]
+  },
+  {
+    "canonical_name": "乔治",
+    "type": "PERSON",
+    "mentions": [
+      "乔治"
+    ]
+  },
+  {
+    "canonical_name": "英",
+    "type": "GPE",
+    "mentions": [
+      "英"
+    ]
+  },
+  {
+    "canonical_name": "国家物理实验室",
+    "type": "ORG",
+    "mentions": [
+      "国家物理实验室",
+      "国家实验室",
+      "中央研究院"
+    ]
+  },
+  {
+    "canonical_name": "半小时",
+    "type": "TIME",
+    "mentions": [
+      "半小时"
+    ]
+  },
+  {
+    "canonical_name": "美国新墨西哥州",
+    "type": "ORG",
+    "mentions": [
+      "美国新墨西哥州"
+    ]
+  },
+  {
+    "canonical_name": "第一",
+    "type": "ORDINAL",
+    "mentions": [
+      "第一"
+    ]
+  },
+  {
+    "canonical_name": "1952年",
+    "type": "DATE",
+    "mentions": [
+      "1952年",
+      "今天",
+      "1951年",
+      "1966年"
+    ]
+  },
+  {
+    "canonical_name": "叶序列",
+    "type": "PERSON",
+    "mentions": [
+      "叶序列"
+    ]
+  },
+  {
+    "canonical_name": "1992年《",
+    "type": "DATE",
+    "mentions": [
+      "1992年《"
+    ]
+  },
+  {
+    "canonical_name": "艾伦·图灵选集",
+    "type": "WORK_OF_ART",
+    "mentions": [
+      "艾伦·图灵选集"
+    ]
+  },
+  {
+    "canonical_name": "氰化物",
+    "type": "PERSON",
+    "mentions": [
+      "氰化物"
+    ]
+  },
+  {
+    "canonical_name": "英国",
+    "type": "NORP",
+    "mentions": [
+      "英国"
+    ]
+  },
+  {
+    "canonical_name": "每日电讯报",
+    "type": "ORG",
+    "mentions": [
+      "每日电讯报"
+    ]
+  },
+  {
+    "canonical_name": "2012年",
+    "type": "DATE",
+    "mentions": [
+      "2012年"
+    ]
+  },
+  {
+    "canonical_name": "2万多",
+    "type": "CARDINAL",
+    "mentions": [
+      "2万多"
+    ]
+  },
+  {
+    "canonical_name": "上议院",
+    "type": "ORG",
+    "mentions": [
+      "上议院"
+    ]
+  },
+  {
+    "canonical_name": "麦克纳利",
+    "type": "GPE",
+    "mentions": [
+      "麦克纳利"
+    ]
+  },
+  {
+    "canonical_name": "勋爵",
+    "type": "GPE",
+    "mentions": [
+      "勋爵"
+    ]
+  },
+  {
+    "canonical_name": "伊丽莎白",
+    "type": "PERSON",
+    "mentions": [
+      "伊丽莎白"
+    ]
+  },
+  {
+    "canonical_name": "1952年",
+    "type": "DATE",
+    "mentions": [
+      "1952年"
+    ]
+  },
+  {
+    "canonical_name": "艾伦·图灵",
+    "type": "PERSON",
+    "mentions": [
+      "艾伦·图灵"
+    ]
+  },
+  {
+    "canonical_name": "49",
+    "type": "CARDINAL",
+    "mentions": [
+      "49"
+    ]
+  },
+  {
+    "canonical_name": "艾伦·图灵",
+    "type": "PERSON",
+    "mentions": [
+      "艾伦·图灵"
+    ]
+  },
+  {
+    "canonical_name": "约49",
+    "type": "CARDINAL",
+    "mentions": [
+      "约49"
+    ]
+  },
+  {
+    "canonical_name": "1946年",
+    "type": "DATE",
+    "mentions": [
+      "1946年"
+    ]
+  },
+  {
+    "canonical_name": "皇家学会",
+    "type": "ORG",
+    "mentions": [
+      "皇家学会"
+    ]
+  },
+  {
+    "canonical_name": "计算机协会",
+    "type": "ORG",
+    "mentions": [
+      "计算机协会"
+    ]
+  },
+  {
+    "canonical_name": "诺贝尔奖",
+    "type": "WORK_OF_ART",
+    "mentions": [
+      "诺贝尔奖"
+    ]
+  },
+  {
+    "canonical_name": "50英镑",
+    "type": "MONEY",
+    "mentions": [
+      "50英镑"
+    ]
+  },
+  {
+    "canonical_name": "史蒂芬·弗莱",
+    "type": "PERSON",
+    "mentions": [
+      "史蒂芬·弗莱"
+    ]
+  },
+  {
+    "canonical_name": "God",
+    "type": "PERSON",
+    "mentions": [
+      "God"
+    ]
+  },
+  {
+    "canonical_name": "NVIDIA",
+    "type": "ORG",
+    "mentions": [
+      "NVIDIA"
+    ]
+  },
+  {
+    "canonical_name": "16",
+    "type": "CARDINAL",
+    "mentions": [
+      "16",
+      "20"
+    ]
+  },
+  {
+    "canonical_name": "模仿游戏",
+    "type": "WORK_OF_ART",
+    "mentions": [
+      "模仿游戏"
+    ]
+  },
+  {
+    "canonical_name": "2014年",
+    "type": "DATE",
+    "mentions": [
+      "2014年"
+    ]
+  },
+  {
+    "canonical_name": "图灵机",
+    "type": "ORG",
+    "mentions": [
+      "图灵机"
+    ]
+  },
+  {
+    "canonical_name": "2012",
+    "type": "CARDINAL",
+    "mentions": [
+      "2012"
+    ]
+  },
+  {
+    "canonical_name": "艾伦·图灵年",
+    "type": "PERSON",
+    "mentions": [
+      "艾伦·图灵年"
+    ]
+  },
+  {
+    "canonical_name": "档案馆",
+    "type": "PERSON",
+    "mentions": [
+      "档案馆"
+    ]
+  },
+  {
+    "canonical_name": "27",
+    "type": "CARDINAL",
+    "mentions": [
+      "27"
+    ]
+  },
+  {
+    "canonical_name": "James",
+    "type": "PERSON",
+    "mentions": [
+      "James"
+    ]
+  },
+  {
+    "canonical_name": "2001",
+    "type": "CARDINAL",
+    "mentions": [
+      "2001"
+    ]
+  },
+  {
+    "canonical_name": "12",
+    "type": "CARDINAL",
+    "mentions": [
+      "12"
+    ]
+  },
+  {
+    "canonical_name": "11",
+    "type": "CARDINAL",
+    "mentions": [
+      "11"
+    ]
+  },
+  {
+    "canonical_name": "2007",
+    "type": "DATE",
+    "mentions": [
+      "2007"
+    ]
+  },
+  {
+    "canonical_name": "台大",
+    "type": "ORG",
+    "mentions": [
+      "台大"
+    ]
+  },
+  {
+    "canonical_name": "数字化",
+    "type": "CARDINAL",
+    "mentions": [
+      "数字化"
+    ]
+  }
+]
